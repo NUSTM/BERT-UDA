@@ -1,0 +1,800 @@
+Boot time is super fast , around anywhere from 35 seconds to 1 minute .***T-POS T-POS O O O O O O O O O O O O O***NN NN VBZ RB JJ , RB RB IN CD NNS IN CD NN .
+tech support would not fix the problem unless I bought your plan for $ 150 plus .***T-NEG T-NEG O O O O O O O O O O O O O O O***NNP NN MD RB VB DT NN IN PRP VBD PRP$ NN IN $ CD NN .
+but in resume this computer rocks !***O O O O O O O***CC IN NN DT NN NNS .
+Set up was easy .***T-POS T-POS O O O***VBN RP VBD JJ .
+Did not enjoy the new Windows 8 and touchscreen functions .***O O O O O T-NEG T-NEG O T-NEG T-NEG O***VBD RB VB DT JJ NNP CD CC JJ NNS .
+I expected so as it 's an Apple product , but I was glad to see my expectations exceeded , this is THE laptop to buy right now .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBD RB IN PRP VBZ DT NNP NN , CC PRP VBD JJ TO VB PRP$ NNS VBN , DT VBZ DT NN TO VB RB RB .
+Other than not being a fan of click pads industry standard these days and the lousy internal speakers , it 's hard for me to find things about this notebook I do n't like , especially considering the $ 350 price tag .***O O O O O O O T-NEG T-NEG O O O O O O O T-NEG T-NEG O O O O O O O O O O O O O O O O O O O O O O T-POS T-POS O***JJ IN RB VBG DT NN IN NN NNS NN NN DT NNS CC DT JJ JJ NNS , PRP VBZ JJ IN PRP TO VB NNS IN DT NN PRP VBP RB VB , RB VBG DT $ CD NN NN .
+excellent in every way .***O O O O O***JJ IN DT NN .
+No installation disk ( DVD ) is included .***O T-NEU T-NEU T-NEU T-NEU T-NEU O O O***DT NN NN -LRB- NNP -RRB- VBZ VBN .
+It 's fast , light , and simple to use .***O O O O O O O O O T-POS O***PRP VBZ JJ , JJ , CC JJ TO VB .
+Works well , and I am extremely happy to be back to an apple OS .***T-POS O O O O O O O O O O O O T-POS T-POS O***VBZ RB , CC PRP VBP RB JJ TO VB RB IN DT NN NN .
+This mac has been a problem since we got it .***O O O O O O O O O O O***DT NNP VBZ VBN DT NN IN PRP VBD PRP .
+Sure it 's not light and slim but the features make up for it 100 % .***O O O O O O O O O T-POS O O O O O O O***UH PRP VBZ RB JJ CC JJ CC DT NNS VBP RP IN PRP CD NN .
+I am pleased with the fast log on , speedy WiFi connection and the long battery life > 6 hrs .***O O O O O O T-POS T-POS O O T-POS T-POS O O O T-POS T-POS O O O O***PRP VBP JJ IN DT JJ NN RP , JJ NNP NN CC DT JJ NN NNP XX CD NN .
+The Apple engineers have not yet discovered the delete key .***O O O O O O O O T-NEG T-NEG O***DT NNP NNS VBP RB RB VBN DT JJ NN .
+Made interneting part of my business very difficult to maintain .***O T-NEG O O O O O O O O O***VBN JJ NN IN PRP$ NN RB JJ TO VB .
+Luckily , for all of us contemplating the decision , the Mac Mini is priced just right .***O O O O O O O O O O O O O O T-POS O O O***RB , IN DT IN PRP VBG DT NN , DT NNP NNP VBZ VBN RB RB .
+Small and still VERY powerful .***O O O O O O***JJ CC RB RB JJ .
+I had gotten this model for $ 119900 on my State 's tax - free weekend and had a $ 100 off coupon for a MacBook at the local BestBuy ! .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBD VBN DT NN IN $ CD IN PRP$ NN POS NN HYPH JJ NN CC VBD DT $ CD IN NN IN DT NNP IN DT JJ NNP . .
+Super light , super sexy and everything just works .***O O O O O O O O T-POS O***RB NN , RB JJ CC NN RB VBZ .
+Only problem that I had was that the track pad was not very good for me , I only had a problem once or twice with it , But probably my computer was a bit defective .***O O O O O O O O T-NEG T-NEG O O O O O O O O O O O O O O O O O O O O O O O O O O O***RB NN WDT PRP VBD VBD IN DT NN NN VBD RB RB JJ IN PRP , PRP RB VBD DT NN RB CC RB IN PRP , CC RB PRP$ NN VBD DT NN JJ .
+And if you are switching from a pc I hilghy sugest this one .***O O O O O O O O O O O O O O***CC IN PRP VBP VBG IN DT NN PRP VBP VBP DT NN .
+It is super fast and has outstanding graphics .***O O O O O O O T-POS O***PRP VBZ RB JJ CC VBZ JJ NNS .
+But the mountain lion is just too slow .***O O T-NEG T-NEG O O O O O***CC DT NN NN VBZ RB RB JJ .
+Strong build though which really adds to its durability .***O T-POS O O O O O O T-POS O***JJ NN IN WDT RB VBZ IN PRP$ NN .
+The battery life is excellent 6 - 7 hours without charging .***O T-POS T-POS O O O O O O O O O***DT NN NN VBZ JJ CD SYM CD NNS IN VBG .
+I enjoy having apple products .***O O O O O O***PRP VBP VBG NN NNS .
+I ' ve had my computer for 2 weeks already and it works perfectly .***O O O O O O O O O O O O T-POS O O***PRP `` NNP VBD PRP$ NN IN CD NNS RB CC PRP VBZ RB .
+I will never go back to a PC again !***O O O O O O O O O O***PRP MD RB VB RB IN DT NN RB .
+And I may be the only one but I am really liking Windows 8 .***O O O O O O O O O O O O T-POS T-POS O***CC PRP MD VB DT JJ CD CC PRP VBP RB VBG NNP CD .
+The baterry is very longer .***O T-POS O O O O***DT NN VBZ RB JJR .
+And it 's so quiet that I do n't hear it at all .***O O O O O O O O O O O O O O***CC PRP VBZ RB JJ IN PRP VBP RB VB PRP RB RB .
+Its size is ideal and the weight is acceptable .***O T-POS O O O O T-POS O O O***PRP$ NN VBZ JJ CC DT NN VBZ JJ .
+I know Apples are more expensive than PCs , but he thinks it is worth every penny .***O O O O O O O O O O O O O O O O O O***PRP VBP NNS VBP RBR JJ IN NNS , CC PRP VBZ PRP VBZ JJ DT NN .
+To me it 's a workhorse and quiet as can be you even save big bucks not dishing out any extra to Uncle Sam Definite Buy .***O O O O O O O O O O O O O O O O O O O O O O O O O O O***IN PRP PRP VBZ DT NN CC JJ IN MD VB PRP RB VB JJ NNS RB VBG RP DT JJ IN NNP NNP NNP NNP .
+I can say that I am fully satisfied with the performance that the computer has supplied .***O O O O O O O O O O T-POS O O O O O O***PRP MD VB IN PRP VBP RB JJ IN DT NN IN DT NN VBZ VBN .
+I ' m pretty sure when I bought it , my bank account went ouch !***O O O O O O O O O O O O O O O O***PRP `` NN RB RB WRB PRP VBD PRP , PRP$ NN NN VBD JJ .
+Thank you so much for the great item .***O O O O O O O O O***VBP PRP RB RB IN DT JJ NN .
+This laptop has only 2 USB ports , and they are both on the same side .***O O O O O T-NEG T-NEG O O O O O O O O O O***DT NN VBZ RB CD NN NNS , CC PRP VBP DT IN DT JJ NN .
+It 's annoying very much and I wo n't ever buy any Acer products .***O O O O O O O O O O O O O O O***PRP VBZ JJ RB RB CC PRP MD RB RB VB DT NNP NNS .
+This is why I purchased a BRAND NEW LAPTOP in the first place so it would n't have ANY problems .***O O O O O O O O O O O O O O O O O O O O O***DT VBZ WRB PRP VBD DT NNP NNP NNP IN DT JJ NN IN PRP MD RB VB DT NNS .
+It has so much more speed and the screen is very sharp .***O O O O O T-POS O O T-POS O O O O***PRP VBZ RB RB JJR NN CC DT NN VBZ RB JJ .
+As for the laptop , this is our 3rd Apple computer in the past 2 years .***O O O O O O O O O O O O O O O O O***IN IN DT NN , DT VBZ PRP$ NNP NNP NN IN DT JJ CD NNS .
+Everything I wanted and everything I needed and the price was great !***O O O O O O O O O T-POS O O O***NN PRP VBD CC NN PRP VBD CC DT NN VBD JJ .
+It 's not inexpensive but the Hardware performance is impressive for a computer this small .***O O O O O O T-POS T-POS O O O O O O O O***PRP VBZ RB JJ CC DT NNP NN VBZ JJ IN DT NN DT JJ .
+It is better than my old acer laptop .***O O O O O O O O O***PRP VBZ JJR IN PRP$ JJ NNP NN .
+This thing is awesome , everything always works , everything is always easy to set up , everything is compatible , its literally everything I could ask for .***O O O O O O O T-POS O O O O O O T-POS T-POS O O O O O O O O O O O O O***DT NN VBZ JJ , NN RB VBZ , NN VBZ RB JJ TO VB RP , NN VBZ JJ , PRP$ RB NN PRP MD VB IN .
+I would buy it again in a heartbeat !***O O O O O O O O O***PRP MD VB PRP RB IN DT NN .
+Keyboard responds well to presses .***T-POS O O O O O***NN VBZ RB IN NNS .
+If someone called me an Apple Fanboyit would make sense .***O O O O O O O O O O O***IN NN VBD PRP DT NNP NNP MD VB NN .
+Lastly , Windows 8 is annoying .***O O T-NEG T-NEG O O O***RB , NNP CD VBZ JJ .
+A scratch on a $ 1,500 MacBook is unforgivable .***O O O O O O O O O O***DT NN IN DT $ CD NNP VBZ JJ .
+I just fell in love with this thing .***O O O O O O O O O***PRP RB VBD IN NN IN DT NN .
+Everything is so easy and intuitive to setup or configure .***O O O O O O O T-POS O T-POS O***NN VBZ RB JJ CC JJ TO NN CC NN .
+I have no problems yet on my mac so far , and hope it stays like that .***O O O O O O O O O O O O O O O O O O***PRP VBP DT NNS RB IN PRP$ NN RB RB , CC VBP PRP VBZ IN DT .
+This laptop is a great buy .***O O O O O O O***DT NN VBZ DT JJ NN .
+Biggest complaint is Windows 8 .***O O O T-NEG T-NEG O***JJS NN VBZ NNP CD .
+Only 2 usb ports kind oflimited .***O O T-NEG T-NEG O O O***RB CD NN NNS RB VBN .
+It has been to early to see if this actually fixes the problem or not though .***O O O O O O O O O O O O O O O O O***PRP VBZ VBN TO RB TO VB IN DT RB VBZ DT NN CC RB RB .
+This device has met my expectations and I ' m sure it will meet yours .***O O O O O O O O O O O O O O O O***DT NN VBZ VBN PRP$ NNS CC PRP `` NN UH PRP MD VB PRP .
+It has all the expected features and more + plus a wide screen and more than roomy keyboard .***O O O O O T-POS O O O O O O T-POS O O O O T-POS O***PRP VBZ PDT DT JJ NNS CC JJR CC CC DT JJ NN CC JJR IN NNP NNP .
+Out of all the laptops I have owned , this is by far the best !***O O O O O O O O O O O O O O O O***IN IN PDT DT NNS PRP VBP VBN , DT VBZ IN RB DT JJS .
+Amazing Performance for anything I throw at it .***O T-POS O O O O O O O***JJ NNP IN NN PRP VBP IN PRP .
+I can never go back to a PC now , this machine never freezes or has any problems .***O O O O O O O O O O O O O O O O O O O***PRP MD RB VB RB IN DT NN RB , DT NN RB VBZ CC VBZ DT NNS .
+Out of the box I noticed how small it was and was exactly what I was looking for .***O O O O O O O O O O O O O O O O O O O***IN IN DT NN PRP VBD WRB JJ PRP VBD CC VBD RB WP PRP VBD VBG IN .
+The receiver was full of superlatives for the quality and performance .***O O O O O O O O T-POS O T-POS O***DT NN VBD JJ IN NNS IN DT NN CC NN .
+I was extremely happy with the OS itself .***O O O O O O T-POS O O***PRP VBD RB JJ IN DT NNP PRP .
+I was looking for something in between a regular laptop and a tablet and this is it .***O O O O O O O O O O O O O O O O O O***PRP VBD VBG IN NN IN IN DT JJ NN CC DT NN CC DT VBZ PRP .
+The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months .***O O O O O T-POS O O O O O O O O O O O O O O O O O O O O***DT JJ NNP VBZ JJ NN CC VBZ PRP NN IN PRP VBP RB VBG TO VB TO VB DT JJ NN IN CD NNS .
+Great purchase and I definitely did n't miss out on the Black Friday deals .***O O O O O O O O O O O O O O O***JJ NN CC PRP RB VBD RB VB RP IN DT NNP NNP NNS .
+The criticism has waned , and now I 'd be the first to recommend an Air for truly portable computing .***O O O O O O O O O O O O O O O O O O T-POS T-POS O***DT NN VBZ VBN , CC RB PRP MD VB DT JJ TO VB DT NN IN RB JJ NN .
+I would have given it 5 starts was it not for the fact that it had Windows 8***O O O O O O O O O O O O O O O O T-NEG T-NEG***PRP MD VB VBN PRP CD NNS VBD PRP RB IN DT NN IN PRP VBD NNP CD
+MS Office 2011 for Mac is wonderful , well worth it .***T-POS T-POS T-POS T-POS T-POS O O O O O O O***NNP NNP CD IN NNP VBZ JJ , RB JJ PRP .
+After using it for over a month , an issue started to surface .***O O O O O O O O O O O O O O***IN VBG PRP IN IN DT NN , DT NN VBD TO VB .
+But the performance of Mac Mini is a huge disappointment .***O O T-NEG O O O O O O O O***CC DT NN IN NNP NNP VBZ DT JJ NN .
+There has been no problem with anything .***O O O O O O O O***EX VBZ VBN DT NN IN NN .
+I believe with Apple , you get what you pay for .***O O O O O O O O O O O O***PRP VBP IN NNP , PRP VBP WP PRP VBP IN .
+They do n't just look good ; they deliver excellent performance .***O O O O T-POS O O O O O T-POS O***PRP VBP RB RB VB JJ : PRP VBP JJ NN .
+I have had it over a year now with out a Glitch of any kindI love the lit up keys and screen display thing is Fast and clear as can be .***O O O O O O O O O O O O O O O O O T-POS T-POS T-POS O T-POS T-POS O O O O O O O O O***PRP VBP VBN PRP IN DT NN RB IN RP DT NNP IN DT NNP NN DT VBN RP NNS CC NN NN NN VBZ JJ CC JJ IN MD VB .
+The product is prefect for everyone .***O O O O O O O***DT NN VBZ JJ IN NN .
+The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows .***O T-POS T-POS T-POS O O O O O O O O O O O T-NEU T-NEU O***DT NNP NNP NNP VBZ RB JJ TO VB RP IN PRP VBP JJ IN NNP NNP .
+However , I can refute that OSX is FAST .***O O O O O O T-NEG O O O***RB , PRP MD VB IN NNP VBZ NN .
+I waited to review to make sure it is what it is .***O O O O O O O O O O O O O***PRP VBD TO VB TO VB JJ PRP VBZ WP PRP VBZ .
+Enjoy using Microsoft Office !***O O T-POS T-POS O***VB VBG NNP NNP .
+I would suggest this product to anyone .***O O O O O O O O***PRP MD VB DT NN IN NN .
+With no problems , I ' m happy with this purchase because I saved money compared to buying it anywhere else .***O O O O O O O O O O O O O O O O O O O O O O***IN DT NNS , PRP `` NN JJ IN DT NN IN PRP VBD NN VBN IN VBG PRP RB RB .
+Incredible graphics and brilliant colors .***O T-POS O O T-POS O***JJ NNS CC JJ NNS .
+I needed something affordable from Apple and was tired of dealing with PC laptop after PC laptop .***O O O O O O O O O O O O O O O O O O***PRP VBD NN JJ IN NNP CC VBD JJ IN VBG IN NN NN IN NN NN .
+Just bit the bullet and bought the Mac hoping it will last a lot longer .***O O O O O O O O O O O O O O O O***RB VB DT NN CC VBD DT NNP VBG PRP MD VB DT NN RBR .
+Built - in apps are purely amazing .***T-POS T-POS T-POS T-POS O O O O***VBN HYPH RP NNS VBP RB JJ .
+Cons , Screen resolution .***O O T-NEG T-NEG O***NNS , NN NN .
+From the speed to the multi touch gestures this operating system beats Windows easily .***O O T-POS O O T-POS T-POS T-POS O T-POS T-POS O T-NEG O O***IN DT NN IN DT JJ NN VBZ DT VBG NN VBZ NNP RB .
+I really like the size and I ' m a fan of the ACERS .***O O O O T-POS O O O O O O O O O O***PRP RB VBP DT NN CC PRP `` NN DT NN IN DT NNS .
+This is by far thee best , most reliable computer I could find .***O O O O O O O O O O O O O O***DT VBZ IN RB NNP RBS , RBS JJ NN PRP MD VB .
+I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty $ 1500 - 2000 which also support accidents like drops and spills that are NOT covered by AppleCare .***O O O O T-POS T-POS T-POS T-POS T-POS T-POS O O O O O O O O O O O O O O O O O T-NEG O***PRP VBD IN DT NNP CD NNP NNP NNP NNP $ CD SYM CD WDT RB VBP NNS IN NNS CC NNS WDT VBP RB VBN IN NNP .
+It 's light and easy to transport .***O O O O O O T-POS O***PRP VBZ JJ CC JJ TO VB .
+Once you get past learning how to use the poorly designed Windows 8 Set - Up you may feel frustrated .***O O O O O O O O O O O T-NEG T-NEG T-NEG T-NEG T-NEG O O O O O***IN PRP VBP JJ VBG WRB TO VB DT RB VBN NNP CD NN HYPH RP PRP MD VB JJ .
+Very powerful especially for the money .***O O O O O O O***RB JJ RB IN DT NN .
+When my Dell laptop gave up only after 2 1/2 years , I decided to buy MacBook Pro .***O O O O O O O O O O O O O O O O O O O***WRB PRP$ NNP NN VBD RP RB IN CD CD NNS , PRP VBD TO VB NNP NNP .
+It 's been time for a new laptop , and the only debate was which size of the Mac laptops , and whether to spring for the retina display .***O O O O O O O O O O O O O O O T-NEU O O O O O O O O O O O T-NEU T-NEU O***PRP VBZ VBN NN IN DT JJ NN , CC DT JJ NN VBD WDT NN IN DT NNP NNS , CC IN TO VB IN DT NNP NN .
+This was a significan'tly more affordable than getting a new MacBook Pro from Apple .***O O O O O O O O O O O O O O O***DT VBD DT RB RBR JJ IN VBG DT JJ NNP NNP IN NNP .
+I have always wanted a MacBook Proalways ! .***O O O O O O O O O***PRP VBP RB VBN DT NNP NNP . .
+The reason why I choose apple MacBook because of their design and the aluminum casing .***O O O O O O O O O O T-POS O O T-POS T-POS O***DT NN WRB PRP VBP NN NNP IN IN PRP$ NN CC DT NN NN .
+The aluminum body sure makes it stand out .***O T-POS T-POS O O O O O O***DT NN NN RB VBZ PRP VB RP .
+Overall it 's an amazing product , 5 stars !***O O O O O O O O O O***JJ PRP VBZ DT JJ NN , CD NNS .
+It is very easy to integrate bluetooth devices , and USB devices are recognized almost instantly .***O O O O O T-POS T-POS T-POS O O T-POS T-POS O O O O O***PRP VBZ RB JJ TO VB JJ NNS , CC NN NNS VBP VBN RB RB .
+He 's thrilled with his new laptop .***O O O O O O O O***PRP VBZ VBN IN PRP$ JJ NN .
+Amazing product as you would expect from Apple .***O O O O O O O O O***JJ NN IN PRP MD VB IN NNP .
+Nothing wrong with this computer at all !***O O O O O O O O***NN JJ IN DT NN RB RB .
+And the fact that Apple is driving the 13 RMBP with the Intel4000 graphic chip seems underpowered to me .***O O O O O O O O O O O O T-NEG T-NEG T-NEG O O O O O***CC DT NN IN NNP VBZ VBG DT CD NNP IN DT NNP JJ NN VBZ JJ IN PRP .
+I have to wonder why Amazon is even selling this dinosaur .***O O O O O O O O O O O O***PRP VBP TO VB WRB NNP VBZ RB VBG DT NN .
+Apple removed the DVD drive Firewire port will work with adapter and put the SDXC slot in a silly position on the back .***O O O T-NEU T-NEU T-NEU T-NEU O O O T-NEU O O O T-NEG T-NEG O O O O O O O O***NNP VBD DT NN NN NNP NN MD VB IN NN CC VBD DT NNP NN IN DT JJ NN IN DT NN .
+No hassle and no complaints .***O O O O O O***DT NN CC DT NNS .
+LOVE IT I ' ve always been an apple fan boy , but never had the money to buy a mac , only ipads and iphones , and this is my first mac , blew me away completely .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***NN UH NN `` XX RB VBN DT NN NN NN , CC RB VBD DT NN TO VB DT NN , RB NNS CC NNS , CC DT VBZ PRP$ JJ NNP , VBD PRP RB RB .
+The durability of the laptop will make it worth the money .***O T-POS O O O O O O O O O O***DT NN IN DT NN MD VB PRP JJ DT NN .
+Well designed and fast .***O T-POS O O O***UH VBN CC VBP .
+And now I am a proud MacBook owner also !***O O O O O O O O O O***CC RB PRP VBP DT JJ NNP NN RB .
+But I was completely wrong , this computer is UNBELIEVABLE amazing and easy to use .***O O O O O O O O O O O O O O T-POS O***CC PRP VBD RB JJ , DT NN VBZ NNP JJ CC JJ TO VB .
+Exactly as posted plus a great value .***O O O O O O T-POS O***RB IN VBN CC DT JJ NN .
+The specs are pretty good too .***O T-POS O O O O O***DT NNS VBP RB JJ RB .
+I am having a friend look at it , but will probably return it .***O O O O O O O O O O O O O O O***PRP VBP VBG DT NN VB IN PRP , CC MD RB VB PRP .
+There were no scratches or dents or any marks at all .***O O O O O O O O O O O O***EX VBD DT NNS CC NNS CC DT NNS RB RB .
+I ' ve only had it one day , but I really do love it and I ' m happy it was economical and I ' m finally able to own a Mac !***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP `` XX RB VBD PRP CD NN , CC PRP RB VBP VB PRP CC PRP `` NN JJ PRP VBD JJ CC PRP `` NN RB JJ TO VB DT NNP .
+Since I have always used Apple products , the choice of Macbook Pro was obvious .***O O O O O O O O O O O O O O O O***IN PRP VBP RB VBN NNP NNS , DT NN IN NNP NNP VBD JJ .
+Apple is unmatched in product quality , aesthetics , craftmanship , and customer service .***O O O O T-POS T-POS O T-POS O T-POS O O T-POS T-POS O***NNP VBZ JJ IN NN NN , NNS , NN , CC NN NN .
+This is my first apple laptop .***O O O O O O O***DT VBZ PRP$ JJ NN NN .
+It makes a great gift .***O O O O O O***PRP VBZ DT JJ NN .
+It is a great size and amazing windows 8 included !***O O O O T-POS O O T-POS T-POS O O***PRP VBZ DT JJ NN CC JJ NNS CD VBD .
+I would recommend to any one lloking for a first class computer !***O O O O O O O O O O O O O***PRP MD VB IN DT CD NN IN DT JJ NN NN .
+I do not like too much Windows 8 .***O O O O O O T-NEG T-NEG O***PRP VBP RB VB RB JJ NNP CD .
+Startup times are incredibly long , over two minutes .***T-NEG T-NEG O O O O O O O O***JJ NNS VBP RB JJ , IN CD NNS .
+I bought this Macbook Pro from Best Buy under a year ago to replace my old Macbook Air .***O O O O O O O O O O O O O O O O O O O***PRP VBD DT NNP JJ IN NNP NNP IN DT NN RB TO VB PRP$ JJ NNP NNP .
+The macbook pro is really responsive .***O O O O O O O***DT NN JJ VBZ RB JJ .
+Also stunning colors and speedy***O O T-POS O O***RB JJ NNS CC NN
+it is really expensive though .***O O O O O O***PRP VBZ RB JJ RB .
+great price free shipping what else can i ask for ! !***O T-POS O T-POS O O O O O O O O***JJ NN JJ NN WP RB MD PRP VB IN . .
+This mouse is terrific .***O T-POS O O O***DT NN VBZ JJ .
+I will also say it is much better than I expected !***O O O O O O O O O O O O***PRP MD RB VB PRP VBZ RB JJR IN PRP VBD .
+This computer does everything i need it to do for school and more .***O O O O O O O O O O O O O O***DT NN VBZ NN PRP VBP PRP TO VB IN NN CC JJR .
+It is really thick around the battery .***O O O O O O T-NEU O***PRP VBZ RB JJ IN DT NN .
+And windows 7 works like a charm .***O T-POS T-POS O O O O O***CC VBZ CD NNS IN DT NN .
+And I can attach my projector to it .***O O O O O O O O O***CC PRP MD VB PRP$ NN IN PRP .
+, Great product , great price , great delivery , and great service .***O O O O O T-POS O O T-POS O O O T-POS O***, JJ NN , JJ NN , JJ NN , CC JJ NN .
+, ] It arrived so fast and customer service was great .***O O O O O O O T-POS T-POS O O O***, -RRB- PRP VBD RB JJ CC NN NN VBD JJ .
+tried windows 8 and hated it ! ! !***O T-NEG T-NEG O O O O O O***VBD NNP CD CC VBD PRP . . .
+The price is higher than most lab top out there ; however , he / she will get what they paid for , which is a great computer .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***DT NN VBZ JJR IN JJS NN NN RB RB : RB , PRP CC PRP MD VB WP PRP VBD IN , WDT VBZ DT JJ NN .
+So , I thought why not give Mac Book pro a try .***O O O O O O O O O O O O O***CC , PRP VBD WRB RB VB NNP NNP VB DT NN .
+Set up was a breeze .***T-POS T-POS O O O O***VBN RP VBD DT NN .
+But I do NOT like Win8 .***O O O O O T-NEG O***CC PRP VBP RB VB NN .
+I have owned at least 4 to 5 laptops and computers , but this is by far the most superior machine I have ever owned .***O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBP VBN IN JJS CD TO CD NNS CC NNS , CC DT VBZ IN RB DT RBS JJ NN PRP VBP RB VBN .
+I am still in the process of learning about its features .***O O O O O O O O O O T-NEU O***PRP VBP RB IN DT NN IN VBG IN PRP$ NNS .
+BTW , I checked online regarding the old laptop that died and found that I was not alone , far from it .***O O O O O O O O O O O O O O O O O O O O O O O***RB , PRP VBD RB VBG DT JJ NN WDT VBD CC VBD IN PRP VBD RB JJ , RB IN PRP .
+I had the same reasons as most PC users , the price , the overbearing restrictions of OSX and lack of support for games .***O O O O O O O O O O O T-NEG O O O O O T-NEG O O O T-NEG T-NEG T-NEG O***PRP VBD DT JJ NNS IN JJS NN NNS , DT NN , DT VBG NNS IN NNP CC NN IN NN IN NNS .
+I wanted it for it 's mobility and man , this little bad boy is very nice .***O O O O O O T-POS O O O O O O O O O O O***PRP VBD PRP IN PRP VBZ NN CC NN , DT JJ JJ NN VBZ RB JJ .
+Seems to me that 's the best way to get Apple 's attention .***O O O O O O O O O O O O O O***VBZ IN PRP DT VBZ DT JJS NN TO VB NNP POS NN .
+Very nice so far .***O O O O O***RB JJ RB RB .
+You wo n't be disappointed .***O O O O O O***PRP MD RB VB VBN .
+The investment of a new MacBook Pro came at a price , but totally worth it for a good piece of mind .***O O O O O O O O O O O O O O O O O O O O O O O***DT NN IN DT JJ NNP NNP VBD IN DT NN , CC RB JJ PRP IN DT JJ NN IN NN .
+I found the mini to be , Exceptionally easy to set up***O O O O O O O O O O T-POS T-POS***PRP VBD DT NN TO VB , RB JJ TO VB RP
+Having USB3 is why I bought this Mini .***O T-POS O O O O O O O***VBG NNP VBZ WRB PRP VBD DT NNP .
+Be sure to have good air flow where ever you put it .***O O O O O O O O O O O O O***VB JJ TO VB JJ NN NN WRB RB PRP VBP PRP .
+The sound is nice and loud ; I do n't have any problems with hearing anything .***O T-POS O O O O O O O O O O O O O O O***DT NN VBZ JJ CC JJ : PRP VBP RB VB DT NNS IN VBG NN .
+It is very slim , the track pad is very much impressed with me .***O O O O O O T-POS T-POS O O O O O O O***PRP VBZ RB JJ , DT NN NN VBZ RB RB JJ IN PRP .
+This was the same problem with my MacBook circa 2007 that I just retired .***O O O O O O O O O O O O O O O***DT VBD DT JJ NN IN PRP$ NNP NN CD WRB PRP RB VBD .
+Great things come in small packages .***O O O O O O O***JJ NNS VBP IN JJ NNS .
+HUGE Apple MAC Fan !***O O O O O***NNP NNP NNP NNP .
+Looked at HP , ASUS , Acer , Sony and a bunch of other ones but could not find I really liked .***O O O O O O O O O O O O O O O O O O O O O O O***VBN IN NNP , NNP , NNP , NNP CC DT NN IN JJ NNS CC MD RB VB PRP RB VBD .
+The settings are not user - friendly either .***O T-NEG O O O O O O O***DT NNS VBP RB NN HYPH JJ RB .
+Honestly , I am surprised no one else has mentioned returning theirs .***O O O O O O O O O O O O O***RB , PRP VBP JJ DT NN RB VBZ VBN VBG PRP .
+Most of them were either too big , too noisy and too slow after 2 years .***O O O O O O O O O O O O O O O O O***JJS IN PRP VBD RB RB JJ , RB JJ CC RB JJ IN CD NNS .
+The machine is used , but is like new , i ' m very impress .***O O O O O O O O O O O O O O O O***DT NN VBZ VBN , CC VBZ IN JJ , PRP `` LS RB NN .
+Thank goodness for OpenOffice !***O O O T-POS O***VBP NN IN NNP .
+Awesome form factor , great battery life , wonderful UX .***O T-POS T-POS O O T-POS T-POS O O T-POS O***JJ NN NN , JJ NN NN , JJ NNP .
+Needless to say , the leap from that to this has been amazing and aside from the financial reasons I am astounded that I had n't made the switch sooner .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***JJ TO VB , DT NN IN DT IN DT VBZ VBN JJ CC RB IN DT JJ NNS PRP VBP JJ IN PRP VBD RB VBN DT NN RBR .
+Its perfect , not much heavy .***O O O O O O O***PRP$ JJ , RB RB JJ .
+i love the keyboard and the screen .***O O O T-POS O O T-POS O***PRP VBP DT NN CC DT NN .
+I find it not to be very user friendly .***O O O O O O O O O O***PRP VBP PRP RB TO VB RB NN JJ .
+It has surpassed all expectations and fulfilled all my needs .***O O O O O O O O O O O***PRP VBZ VBN DT NNS CC VBD PDT PRP$ NNS .
+However , there are MAJOR issues with the touchpad which render the device nearly useless .***O O O O O O O O T-NEG O O O O O O O***RB , EX VBP NNP NNS IN DT NN WDT VBP DT NN RB JJ .
+What angers me more than anything else is that I spent all those years hating MACs when I could have been getting a lot more production with a whole lot less grief !***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***WP VBZ PRP RBR IN NN RB VBZ IN PRP VBD PDT DT NNS VBG NNS WRB PRP MD VB VBN VBG DT NN JJR NN IN DT JJ NN JJR NN .
+I ' ve already upgraded o Mavericks and I am impressed with everything about this computer .***O O O O O O T-POS O O O O O O O O O O***PRP `` VBP RB VBN IN NNP CC PRP VBP JJ IN NN IN DT NN .
+So this is very good commputer and i highly suggest it .***O O O O O O O O O O O O***CC DT VBZ RB JJ NN CC PRP RB VBP PRP .
+the mbp i recieved was everything it should have been .***O O O O O O O O O O O***DT NNP PRP VBD VBD NN PRP MD VB VBN .
+I was going to buy today and noticed it went back up to $ 34499 ? .***O O O O O O O O O O O O O O O O O***PRP VBD VBG TO VB NN CC VBD PRP VBD RB IN TO $ CD . .
+Not as fast as I would have expect for an i5 .***O O O O O O O O O O T-NEG O***RB RB JJ IN PRP MD VB VB IN DT NN .
+SO of course this one came through with the awesomeness !***O O O O O O O O O O O***RB IN NN DT CD VBD RP IN DT NN .
+You will not regret buying this computer !***O O O O O O O O***PRP MD RB VB VBG DT NN .
+Nothing bad to say about it .***O O O O O O O***NN JJ TO VB IN PRP .
+It s heavy for Mac book but is good .***O O O O O O O O O O***PRP VBZ JJ IN NNP NN CC VBZ JJ .
+thanks for great service and shipping !***O O O T-POS O T-POS O***NNS IN JJ NN CC NN .
+Deal of the year .***O O O O O***NN IN DT NN .
+My sisters same laptop broke about the month later for the same reason .***O O O O O O O O O O O O O O***PRP$ NNS JJ NN VBD IN DT NN RB IN DT JJ NN .
+Minis make sense for a lot of people .***O O O O O O O O O***NNS VB NN IN DT NN IN NNS .
+The performance seems quite good , and built - in applications like iPhoto work great with my phone and camera .***O T-POS O O O O O T-POS T-POS T-POS T-POS O T-POS O O O O O O O O***DT NN VBZ RB JJ , CC VBN HYPH RP NNS IN NNP VBP RB IN PRP$ NN CC NN .
+This Mac Mini makes the Macbook Pro seem slow .***O O O O O O O O O O***DT NNP NNP VBZ DT NNP NNP VB JJ .
+I did swap out the hard drive for a Samsung 830 SSD which I highly recommend .***O O O O O T-NEU T-NEU O O T-POS T-POS T-POS O O O O O***PRP VBD VB RP DT JJ NN IN DT NNP CD NN WDT PRP RB VBP .
+I bought this MacBook Pro to replace my six - year - old PC a Sony Vaio , but it was basically no better than my old PC , so I returned it .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBD DT NNP NNP TO VB PRP$ CD HYPH NN HYPH JJ NN DT NNP NNP , CC PRP VBD RB RB RBR IN PRP$ JJ NN , CC PRP VBD PRP .
+I wanted a simple , reliable laptop .***O O O O O O O O***PRP VBD DT JJ , JJ NN .
+Cheaper than buying it @ apple too !***O O O O O O O O***JJR IN VBG PRP IN NN RB .
+I have just had to learn to be a little harder typer than on my last computer .***O O O O O O O O O O O O O O O O O O***PRP VBP RB VBN TO VB TO VB DT JJ JJR NN IN IN PRP$ JJ NN .
+Extremely disappointed with the way it is .***O O O O O O O O***RB JJ IN DT NN PRP VBZ .
+Never been happier using computer .***O O O O O O***RB VBN JJR VBG NN .
+I have had a total of 5 different laptop from many different manufactures .***O O O O O O O O O O O O O O***PRP VBP VBN DT NN IN CD JJ NN IN JJ JJ NNS .
+Does everything I wanted this laptop to do .***O O O O O O O O O***VBZ NN PRP VBD DT NN TO VB .
+Besides , the apple stocks have been falling due to lack of sales .***O O O O O O O O O O O O O O***RB , DT NN NNS VBP VBN VBG JJ IN NN IN NNS .
+Turns out this is a common problem .***O O O O O O O O***VBZ RP DT VBZ DT JJ NN .
+Starts up in a hurry and everything is ready to go .***T-POS T-POS O O O O O O O O O O***VBZ RP IN DT NN CC NN VBZ JJ TO VB .
+It is also fast as can be you get what you pay for well worth the investment .***O O O O O O O O O O O O O O O O O O***PRP VBZ RB JJ IN MD VB PRP VB WP PRP VBP IN RB JJ DT NN .
+But I ' m still learning so ca n't rate it yet for everything .***O O O O O O O O O O O O O O O***CC PRP `` NN RB VBG RB MD RB VB PRP RB IN NN .
+Overall very impressed , Thank you Apple and Amazon !***O O O O O O O O O O***JJ RB JJ , VBP PRP NNP CC NNP .
+Yes , that 's a good thing , but it 's made from aluminum that scratches easily .***O O O O O O O O O O O O O T-NEG O O O O***UH , DT VBZ DT JJ NN , CC PRP VBZ VBN IN NN WDT VBZ RB .
+Very fast for my needs .***O O O O O O***RB RB IN PRP$ NNS .
+I bought this Mac in order to replace my old Dell laptop .***O O O O O O O O O O O O O***PRP VBD DT NNP IN NN TO VB PRP$ JJ NNP NN .
+Quick and has built in virus control .***O O O T-POS T-POS T-POS T-POS O***JJ CC VBZ VBN IN NN NN .
+Took a long time trying to decide between one with retina display and one without .***O O O O O O O O O O T-NEU T-NEU O O O O***VBD DT JJ NN VBG TO VB IN CD IN NNP NN CC CD IN .
+I saw the Mini Mac at Best Buy and decided to get this as my replacement .***O O O O O O O O O O O O O O O O O***PRP VBD DT NNP NNP IN NNP NNP CC VBD TO VB DT IN PRP$ NN .
+I finally decided on this one and could n't be any happier .***O O O O O O O O O O O O O***PRP RB VBD IN DT NN CC MD RB VB RB JJR .
+I was also informed that the components of the Mac Book were dirty .***O O O O O O T-NEG O O O O O O O***PRP VBD RB VBN IN DT NNS IN DT NNP NNP VBD JJ .
+So glad I did not waste money on a less than par product .***O O O O O O O O O O O O O O***RB JJ PRP VBD RB VB NN IN DT JJR IN JJ NN .
+Have n't regretted it one bit .***O O O O O O O***VBP RB VBN PRP CD NN .
+The one thing that Apple does right is computers .***O O O O O O O O O O***DT CD NN WDT NNP VBZ NN VBZ NNS .
+the hardware problems have been so bad , i ca n't wait till it completely dies in 3 years , TOPS !***O T-NEG O O O O O O O O O O O O O O O O O O O O***DT NN NNS VBP VBN RB JJ , PRP MD RB VB IN PRP RB VBZ IN CD NNS , UH .
+It 's so nice that the battery last so long and that this machine has the snow lion !***O O O O O O T-POS O O O O O O O O O T-POS T-POS O***PRP VBZ RB JJ IN DT NN RB RB RB CC IN DT NN VBZ DT NN NN .
+I think that they are the best out on the market .***O O O O O O O O O O O O***PRP VBP IN PRP VBP DT JJS RB IN DT NN .
+HOWEVER I chose two day shipping and it took over a week to arrive .***O O O O O T-NEG O O O O O O O O O***WRB PRP VBD CD NN NN CC PRP VBD RP DT NN TO VB .
+That 's quite a bump up from the $ 599 that this little guy sells for , which leaves me to my next point .***O O O O O O O O O O O O O O O O O O O O O O O O O***DT VBZ PDT DT NN RP IN DT $ CD IN DT JJ NN VBZ IN , WDT VBZ PRP IN PRP$ JJ NN .
+this is quite smooth as well as heavy and can easily slip through the hands .***O O O O O O O O O O O O O O O O***DT VBZ RB JJ RB RB IN JJ CC MD RB VB IN DT NNS .
+My laptop is so light that I can take it with me anywhere .***O O O O O O O O O O O O O O***PRP$ NN VBZ RB JJ IN PRP MD VB PRP IN PRP RB .
+it 's exactly what i wanted , and it has all the new features and whatnot .***O O O O O O O O O O O O O T-POS O O O***PRP VBZ RB WP PRP VBD , CC PRP VBZ PDT DT JJ NNS CC RB .
+You can do absolutely anything and is very fast and stylish .***O O O O O O O O O O O O***PRP MD VB RB NN CC VBZ RB JJ CC JJ .
+Finally decided to try a MAC because there were too many choices of which PC 's to buy and EVERYONE who had a MAC said buy a MAC .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***RB VBD TO VB DT NNP IN EX VBD RB JJ NNS IN WDT NNP POS TO VB CC NN WP VBD DT NNP VBD VB DT NNP .
+Can you buy any laptop that matches the quality of a MacBook ?***O O O O O O O O T-POS O O O O***MD PRP VB DT NN WDT VBZ DT NN IN DT NNP .
+It feels cheap , the keyboard is not very sensitive .***O O O O O T-NEG O O O O O***PRP VBZ JJ , DT NN VBZ RB RB JJ .
+That defeated the whole point of a laptop .***O O O O O O O O O***DT VBD DT JJ NN IN DT NN .
+Though please note that sometimes it crashes , and the sound quality is nt superb .***O O O O O O O O O O T-NEG T-NEG O O O O***IN UH VB IN RB PRP VBZ , CC DT JJ NN VBZ RB JJ .
+It is very easy to navigate even for a novice .***O O O O O T-POS O O O O O***PRP VBZ RB JJ TO VB RB IN DT NN .
+But until now , no complains at all .***O O O O O O O O O***CC IN RB , DT VBZ RB RB .
+The cons are more annoyances that can be lived with .***O O O O O O O O O O O***DT NNS VBP JJR NNS WDT MD VB VBN IN .
+Does everything I need it to , has a wonderful battery life and I could n't be happier .***O O O O O O O O O O T-POS T-POS O O O O O O O***VBZ NN PRP VBP PRP TO , VBZ DT JJ NN NN CC PRP MD RB VB JJR .
+Great Performance and Quality .***O T-POS O T-POS O***NNP NNP CC NNP .
+Just What I Needed For Portable And My Wallet Too !***O O O O O O O O O O O***RB WP PRP VBD IN JJ CC PRP$ NN RB .
+The device speaks about it self .***O O O O O O O***DT NN VBZ IN PRP NN .
+I used windows XP , windows Vista , and Windows 7 extensively .***O O T-NEU T-NEU O T-NEU T-NEU O O T-NEU T-NEU O O***PRP VBD NNP NNP , VBZ NNP , CC NNP CD RB .
+the only thing that bums me out about this purchase is they released a newer updated mbp seriously RIGHT after i bought this one .***O O O O O O O O O O O O O O O O O O O O O O O O O***DT JJ NN WDT VBZ PRP RP IN DT NN VBZ PRP VBN DT RBR VBN NN RB RB IN PRP VBD DT NN .
+it does get hot when using on a bed or sofa and gets warm on a deskthis is in an un - air conditioned roomin air condition it gets slightly warm .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBZ VB JJ WRB VBG IN DT NN CC NN CC VBZ JJ IN DT NN VBZ IN DT NNP HYPH NNP VBD NNP NN NN PRP VBZ RB JJ .
+I did add a SSD drive and memory***O O O O T-NEU T-NEU O T-NEU***PRP VBD VB DT NN NN CC NN
+I got this one for thanks giving Offer for $ 962 , .***O O O O O O O O O O O O O***PRP VBD DT NN IN NNS VBG NNP IN $ CD , .
+I had my PC laptop for 3 years and going to a MacBook Pro is like I leaped through time .***O O O O O O O O O O O O O O O O O O O O O***PRP VBD PRP$ NN NN IN CD NNS CC VBG IN DT NNP NNP VBZ UH PRP VBD IN NN .
+On start up it asks endless questions just so itune can sell you more of their products .***O T-NEG T-NEG O O O O O O T-NEG O O O O O O O O***IN VB RP PRP VBZ JJ NNS RB RB NNP MD VB PRP JJR IN PRP$ NNS .
+Pretty much made sense to get a Mini .***O O O O O O O O O***RB RB VBD NN TO VB DT NNP .
+I Have been a Pc user for a very long time now but I will get used to this new OS .***O O O O O O O O O O O O O O O O O O O O T-NEU O***PRP VBP VBN DT JJ NN IN DT RB JJ NN RB CC PRP MD VB VBN IN DT JJ NN .
+not something you want to miss out on ! ! !***O O O O O O O O O O O***RB NN PRP VBP TO VB RP IN . . .
+One more thing , this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC 's , also the charging cables are made of the same cheap material as the iPhone / iPod touch cables .***O O O O O O O O O O T-NEG T-NEG O O O O O O O O O O O O O O O O O O O O O O O O T-NEG T-NEG O O O O O O T-NEG O O O O O O O O***CD JJR NN , DT NNP VBZ RB VB IN JJ NNS CC PRP VBP RB JJ IN PRP MD VB PRP JJ IN DT NNP IN PRP MD IN JJR NNP POS , RB DT VBG NNS VBP VBN IN DT JJ JJ NN IN DT NNP SYM NNP NN NNS .
+I bought it to my son who uses it for graphic design .***O O O O O O O O O O T-NEU T-NEU O***PRP VBD PRP IN PRP$ NN WP VBZ PRP IN JJ NN .
+I previously owned an older Dell laptop that died after about 5 or 6 years .***O O O O O O O O O O O O O O O O***PRP RB VBD DT JJR NNP NN WDT VBD IN RB CD CC CD NNS .
+Its a pretty decent computer .***O O O O O O***PRP$ DT RB JJ NN .
+I never tried any external mics with that iMac .***O O O O T-NEU T-NEU O O O O***PRP RB VBD DT JJ NNS IN DT NNP .
+The new os is great on my macbook pro !***O O T-POS O O O O O O O***DT JJ NN VBZ JJ IN PRP$ NN JJ .
+It was fast , and it was different .***O O O O O O O O O***PRP VBD JJ , CC PRP VBD JJ .
+I had a little problem adjusting to the small screen but works fine as long as I remember to carry my glasses .***O O O O O O O O O O O O O O O O O O O O O O O***PRP VBD DT JJ NN VBG IN DT JJ NN CC VBZ RB RB RB IN PRP VBP TO VB PRP$ NNS .
+I purchased my first Mac and am glad I did .***O O O O O O O O O O O***PRP VBD PRP$ JJ NNP CC VBP JJ PRP VBD .
+I have experienced no problems , works as anticipated .***O O O O O O T-POS O O O***PRP VBP VBN DT NNS , VBZ IN VBN .
+System is running great .***T-POS O O O O***NN VBZ VBG JJ .
+Easy to customize setting and even create your own bookmarks .***O O T-POS T-POS O O T-POS T-POS T-POS T-POS O***JJ TO VB VBG CC RB VB PRP$ JJ NNS .
+They really screwed the pooch on this one .***O O O O O O O O O***PRP RB VBD DT NN IN DT NN .
+The MAC Mini , wireless keyboard / mouse and a HDMI cable is all I need to get some real work done .***O O O O T-NEU T-NEU T-NEU T-NEU O O T-NEU T-NEU O O O O O O O O O O O***DT NNP NNP , JJ NN SYM NN CC DT NNP NN VBZ DT PRP VBP TO VB DT JJ NN VBN .
+I finally pulled the trigger and I am blown away by how much more I enjoy my computer tasks using the Mac Mini ! ! !***O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP RB VBD DT NN CC PRP VBP VBN RB IN WRB JJ JJR PRP VBP PRP$ NN NNS VBG DT NNP NNP , . .
+it has all the features that we expected and the price was good , working well so far .***O O O O T-POS O O O O O T-POS O O O T-POS O O O O***PRP VBZ PDT DT NNS WDT PRP VBD CC DT NN VBD JJ , VBG RB RB RB .
+I work as a designer and coder and I needed a new buddy to work with , not gaming .***O O O O O O O O O O O O O O O O O O T-NEU O***PRP VBP IN DT NN CC NN CC PRP VBD DT JJ NN TO VB IN , RB VBG .
+I was told that it seems to be a multi , component failure .***O O O O O O O O O O O O O O***PRP VBD VBN IN PRP VBZ TO VB DT JJ , JJ NN .
+The new operating system makes this computer into a super iPad .***O O T-POS T-POS O O O O O O O O***DT JJ NN NN VBZ DT NN IN DT JJ NNP .
+I am very happy with my first Mac .***O O O O O O O O O***PRP VBP RB JJ IN PRP$ JJ NNP .
+Easy to set up and go !***O O T-POS T-POS O O O***JJ TO VB RP CC VB .
+I ca n't believe how quiet the hard drive is and how quick this thing boots up .***O O O O O O O T-POS T-POS O O O O O O T-POS T-POS O***PRP MD RB VB WRB JJ DT JJ NN VBZ CC WRB JJ DT NN VBZ RP .
+The only issue came when I tried scanning to the mac .***O O O O O O O T-NEG O O O O***DT JJ NN VBD WRB PRP VBD VBG IN DT NNP .
+The machine is speedy and efficient .***O O O O O O O***DT NN VBZ JJ CC JJ .
+I think this is about as good as it gets at anything close to this price point .***O O O O O O O O O O O O O O O T-NEU T-NEU O***PRP VBP DT VBZ RB RB JJ IN PRP VBZ IN NN JJ IN DT NN NN .
+A * big * upgrade from my 13 2006 macbook .***O O O O O O O O O O O***DT NFP JJ NFP VBP IN PRP$ CD CD NN .
+It 's just what we were looking for and it works great .***O O O O O O O O O O T-POS O O***PRP VBZ RB WP PRP VBD VBG IN CC PRP VBZ JJ .
+Having a Mac certainly makes life easier .***O O O O O O O O***VBG DT NNP RB VBZ NN JJR .
+It 's so quick and responsive that it makes working on a computer so much more pleasurable !***O O O O O O O O O T-POS O O O O O O O O***PRP VBZ RB JJ CC JJ IN PRP VBZ VBG IN DT NN RB RB RBR JJ .
+The old unibody macbook pro could fry an egg after a while .***O O O O O O O O O O O O O***DT JJ JJ NN JJ MD VB DT NN IN DT NN .
+It works fine , and all the software seems to run pretty well .***O T-POS O O O O O T-POS O O O O O O***PRP VBZ RB , CC PDT DT NN VBZ TO VB RB RB .
+For this purpose , it 's great .***O O O O O O O O***IN DT NN , PRP VBZ JJ .
+Could n't have asked for more !***O O O O O O O***MD RB VB VBN IN JJR .
+I ' m using this computer for word processing , web browsing , some gaming , and I ' m learning programming .***O O O O O O O T-NEU T-NEU O T-NEU T-NEU O O T-NEU O O O O O O T-NEU O***PRP `` NN VBG DT NN IN NN NN , NN NN , DT NN , CC PRP CC NN NN NN .
+It certainly does , but you rarely hear any of your friends with Mac 's complain about anything .***O O O O O O O O O O O O O O O O O O O***PRP RB VBZ , CC PRP RB VBP DT IN PRP$ NNS IN NNP POS NN IN NN .
+My wife was so excited to open the box , but quickly came to see that it did not function as it should .***O O O O O O O O O O O O O O O O O O O T-NEG O O O O***PRP$ NN VBD RB JJ TO VB DT NN , CC RB VBD TO VB IN PRP VBD RB VB IN PRP MD .
+I do n't have any technical pearls to share .***O O O O O O O O O O***PRP VBP RB VB DT JJ NNS TO VB .
+I wanted a computer that was quite , fast , and that had overall great performance .***O O O O O O O O O O O O O O O T-NEU O***PRP VBD DT NN WDT VBD RB , JJ , CC DT VBD JJ JJ NN .
+Apple " Help " is a mixed bag .***T-NEG T-NEG T-NEG T-NEG O O O O O***NNP `` NN '' VBZ DT JJ NN .
+All I can say is I am impressed .***O O O O O O O O O***DT PRP MD VB VBZ PRP VBP JJ .
+It suddenly can not work .***O O O O T-NEG O***PRP RB MD RB VB .
+It did everything we expected !***O O O O O O***PRP VBD NN PRP VBD .
+Harddrive was in poor condition , had to replace it .***T-NEG O O O O O O O O O O***NNP VBD IN JJ NN , VBD TO VB PRP .
+The on / off switch is a bit obscure in the rear corner .***O T-NEG T-NEG T-NEG T-NEG O O O O O O O O O***DT IN SYM NN NN VBZ DT NN JJ IN DT JJ NN .
+It 's a nice little gadget .***O O O O O O O***PRP VBZ DT JJ JJ NN .
+My only complaint is the total lack of instructions that come with the mac mini .***O O O O O O O O T-NEG O O O O O O O***PRP$ JJ NN VBZ DT JJ NN IN NNS WDT VBP IN DT NNP NNP .
+The only task that this computer would not be good enough for would be gaming , otherwise the integrated Intel 4000 graphics work well for other tasks .***O O O O O O O O O O O O O O T-NEG O O O O O O O O O O O O O***DT JJ NN IN DT NN MD RB VB JJ RB IN MD VB VBG , RB DT JJ NNP CD NNS VBP RB IN JJ NNS .
+It 's macbook pro and there is no discusion about it .***O O O O O O O O O O O O***PRP VBZ NN JJ CC EX VBZ DT NN IN PRP .
+I ' m hoping the rest of the features will be the signature quality of apple .***O O O O O O O O O O O O O O O O O***PRP `` NN VBG DT NN IN DT NNS MD VB DT NN NN IN NN .
+I use it mostly for content creation Audio , video , photo editing and its reliable .***O O O O O T-POS T-POS T-POS O T-POS O T-POS T-POS O O O O***PRP VBP PRP RB IN NN NN NNP , NN , NN NN CC PRP$ JJ .
+It is the best all around Mac .***O O O O O O O O***PRP VBZ DT JJS RB IN NNP .
+Screen is bright and gorgeous .***T-POS O O O O O***NN VBZ JJ CC JJ .
+Also is portable and reliable .***O O O O O O***RB VBZ JJ CC JJ .
+The only solution is to turn the brightness down , etc .***O O O O O O O T-NEU O O O O***DT JJ NN VBZ TO VB DT NN RP , FW .
+It is not an easy decision to purchase a used or even good as new laptop but I am very satisfied .***O O O O O O O O O O O O O O O O O O O O O O***PRP VBZ RB DT JJ NN TO VB DT VBN CC RB JJ IN JJ NN CC PRP VBP RB JJ .
+If you want more information on macs I suggest going to applecom and heading towards the macbook page for more information on the applications .***O O O O O O O O O O O O O O O O O O O O O O O T-NEU O***IN PRP VBP JJR NN IN NNS PRP VBP VBG TO NNP CC VBG IN DT NN NN IN JJR NN IN DT NNS .
+It is robust , with a friendly use as all Apple products .***O O O O O O O T-POS O O O O O***PRP VBZ JJ , IN DT JJ NN IN DT NNP NNS .
+Even if you do n't do business , that s okay , it 's incredibly fast .***O O O O O O O O O O O O O O O O O***RB IN PRP VBP RB VB NN , DT VBZ UH , PRP VBZ RB JJ .
+It is fast and easy to use .***O O O O O O T-POS O***PRP VBZ JJ CC JJ TO VB .
+This was absolutely annoying !***O O O O O***DT VBD RB JJ .
+And the fact that it comes with an i5 processor definitely speeds things up***O O O O O O O O T-POS T-POS O O O O***CC DT NN IN PRP VBZ IN DT NN NN RB VBZ NNS RP
+But for those of you that do n't have a mac and are still on the PC 's this is a good foot in the door into mac .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***CC IN DT IN PRP WDT VBP RB VB DT NN CC VBP RB IN DT NN POS DT VBZ DT JJ NN IN DT NN IN NNP .
+I have been PC for years but this computer is intuitive and its built in features are a great help***O O O O O O O O O O O O O T-POS T-POS T-POS O O O O***PRP VBP VBN NN IN NNS CC DT NN VBZ JJ CC PRP$ VBN IN NNS VBP DT JJ NN
+and it fits in my briefcase with ease***O O O O O O O O***CC PRP VBZ IN PRP$ NN IN NN
+Nice screen , keyboard works great !***O T-POS O T-POS O O O***JJ NN , NN VBZ RB .
+Still not bad for 22000 .***O O O O O O***RB RB JJ IN CD .
+I was amazed at how fast the delivery was .***O O O O O O O T-POS O O***PRP VBD JJ IN WRB RB DT NN VBD .
+Good computer and fast .***O O O O O***JJ NN CC RB .
+I ' ve installed to it additional SSD and 16Gb RAM .***O O O O O O O T-NEU O T-NEU T-NEU O***PRP `` JJ VBN IN PRP JJ NNP CC NNP NNP .
+The memory was gone and it was not able to be used .***O T-NEG O O O O O O O O O O O***DT NN VBD VBN CC PRP VBD RB JJ TO VB VBN .
+Its pretty much fire it up and go .***O O O O O O O O O***PRP$ RB JJ NN PRP RP CC VB .
+It works great and I am so happy I bought it .***O T-POS O O O O O O O O O O***PRP VBZ JJ CC PRP VBP RB JJ PRP VBD PRP .
+Let me start off by saying that I was highly reluctant to spend so much money on a laptop .***O O O O O O O O O O O O O O O O O O O O***VB PRP VB RP IN VBG IN PRP VBD RB JJ TO VB RB JJ NN IN DT NN .
+I like the design and ease of use with the keyboard , plenty of ports .***O O O T-POS O O O O O O T-POS O O O T-POS O***PRP VBP DT NN CC NN IN NN IN DT NN , NN IN NNS .
+Apple is living up to its name with the mini and , for our needs , it 's perfect .***O O O O O O O O O O O O O O O O O O O O***NNP VBZ VBG RP IN PRP$ NN IN DT NN CC , IN PRP$ NNS , PRP VBZ JJ .
+it definitely beats my old mac and the service was great .***O O O O O O O O T-POS O O O***PRP RB VBZ PRP$ JJ NNP CC DT NN VBD JJ .
+I went from a Macbook to this Mac Mini and this was a great upgrade !***O O O O O O O O O O O O O O O O***PRP VBD IN DT NNP IN DT NNP NNP CC DT VBD DT JJ NN .
+Web browsing is very quick with Safari browser .***T-POS T-POS O O O O T-POS T-POS O***NN NN VBZ RB JJ IN NNP NN .
+It could n't have been a better decision .***O O O O O O O O O***PRP MD RB VB VBN DT JJR NN .
+I like the lighted screen at night .***O O O T-POS T-POS O O O***PRP VBP DT JJ NN IN NN .
+It 's great to have a solid Mac in the living room .***O O O O O O O O O O O O O***PRP VBZ JJ TO VB DT JJ NNP IN DT NN NN .
+It is really easy to use and it is quick to start up .***O O O O O T-POS O O O O O T-POS T-POS O***PRP VBZ RB JJ TO VB CC PRP VBZ JJ TO VB RP .
+I ' ve lived with the crashes and slow operation and restarts .***O O O O O O O O O T-NEG O O O***PRP `` NNP VBD IN DT NNS CC JJ NN CC NNS .
+Very light and easily maneuverable .***O O O O O O***RB JJ CC RB JJ .
+USB3 Peripherals are noticably less expensive than the ThunderBolt ones .***T-POS T-POS O O O O O O T-NEG O O***NNP NNS VBP RB RBR JJ IN DT NNP NNS .
+This can be annoying at first but you just have to train yourself not to to start over so far .***O O O O O O O O O O O O O O O O O O O O O***DT MD VB JJ IN RB CC PRP RB VBP TO VB PRP RB TO TO VB RP RB RB .
+And mine had broke but I sent it in under warranty problems .***O O O O O O O O O O T-POS O O***CC PRP VBD VBN CC PRP VBD PRP RB IN NN NNS .
+I am not happy with my purchase***O O O O O O O***PRP VBP RB JJ IN PRP$ NN
+It 's fast , light , and is perfect for media editing , which is mostly why I bought it in the first place .***O O O O O O O O O O T-POS T-POS O O O O O O O O O O O O O***PRP VBZ JJ , NN , CC VBZ JJ IN NNS NN , WDT VBZ RB WRB PRP VBD PRP IN DT JJ NN .
+However , the machine itself left a bit to be desired .***O O O O O O O O O O O O***RB , DT NN PRP VBD DT NN TO VB VBN .
+The battery lasts as advertised give or take 15 - 20 minutes , and the entire user experience is very elegant .***O T-POS O O O O O O O O O O O O O O T-POS T-POS O O O O***DT NN VBZ IN VBN VBP CC VB CD SYM CD NNS , CC DT JJ NN NN VBZ RB JJ .
+I spent months looking for a good laptop for me and I finally found it !***O O O O O O O O O O O O O O O O***PRP VBD NNS VBG IN DT JJ NN IN PRP CC PRP RB VBD PRP .
+$ 99900 Tax free .***O O O O O***$ CD NN JJ .
+Thanks for the fast shipment and great price .***O O O O T-POS O O T-POS O***NNS IN DT JJ NN CC JJ NN .
+! Excelent performance , usability , presentation and time response .***O O T-POS O T-POS O T-POS O T-POS T-POS O***. NN NN , NN , NN CC NN NN .
+The smaller size was a bonus because of space restrictions .***O O T-POS O O O O O O O O***DT JJR NN VBD DT NN IN IN NN NNS .
+I blame the Mac OS .***O O O T-NEG T-NEG O***PRP VBP DT NNP NNP .
+But for now , this laptop is still a workhorse .***O O O O O O O O O O O***CC IN RB , DT NN VBZ RB DT NN .
+In fact I still use manyASPECT0 Appleworks , FileMaker Pro , Quicken , Photoshop etc !***O O O O O O T-NEU O T-NEU T-NEU O T-NEU O T-NEU O O***IN NN PRP RB VBP NNP NNPS , NNP NNP , NNP , NNP FW .
+It 's small but powerful , light but strong , elegant and beautiful In resume , it 's a Mac ! .***O O O O O O O O O O O O O O O O O O O O O O***PRP VBZ JJ CC JJ , JJ CC JJ , JJ CC JJ IN NN , PRP VBZ DT NNP . .
+I like the operating system .***O O O T-POS T-POS O***PRP VBP DT NN NN .
+I wish I would have taken the plunge years ago .***O O O O O O O O O O O***PRP VBP PRP MD VB VBN DT NN NNS RB .
+I love the form factor .***O O O T-POS T-POS O***PRP VBP DT NN NN .
+I have n't used the product long enough to write a detailed technical review .***O O O O O O O O O O O O O O O***PRP VBP RB VBN DT NN RB RB TO VB DT JJ JJ NN .
+It 's fast at loading the internet .***O O O O T-POS T-POS T-POS O***PRP VBZ JJ IN VBG DT NN .
+So much faster and sleeker looking .***O O O O O T-POS O***RB RB RBR CC VBP VBG .
+I plan on using my MacBook Pro for a long time .***O O O O O O O O O O O O***PRP VBP IN VBG PRP$ NNP NNP IN DT JJ NN .
+Unfortunately , it runs XP and Microsoft is dropping support next April .***O O O O T-NEU O O O O T-NEG O O O***RB , PRP VBZ NNP CC NNP VBZ VBG NN IN NNP .
+Its seen in movies , sitcoms , prominent important people carry and use them and they are GREAT !***O O O O O O O O O O O O O O O O O O O***PRP$ VBN IN NNS , NNS , JJ JJ NNS VBP CC VBP PRP CC PRP VBP JJ .
+First off , I really do like my MBP once used to the OS it is pretty easy to get around , and the overall build is great eg the keyboard is one of the best to type on .***O O O O O O O O O O O O O T-POS O O O O O O O O O O T-POS T-POS O O O O T-POS O O O O O O O O O***RB RB , PRP RB VBP UH PRP$ NNP RB VBD IN DT NN PRP VBZ RB JJ TO VB RP , CC DT JJ NN VBZ JJ IN DT NN VBZ CD IN DT JJS TO VB RP .
+Does exactly what I bought it 4 .***O O O O O O O O***VBZ RB WP PRP VBD PRP CD .
+Buy the Mac Mini it 's a terribly great machine .***O O O O O O O O O O O***VB DT NNP NNP PRP VBZ DT RB JJ NN .
+It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit .***O O O O O O T-POS O O O O O O O O O O O O O O O O O T-NEU O O O***PRP VBZ VBN IN JJ JJ NN CC IN PRP VBP RB VBN DT NNP VBG PRP$ NNP VBD PRP VB JJ IN DT NN DT NN .
+I love this piece of equipment , It will be hard to go back to other type of laptop after using a MacBook Pro .***O O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBP DT NN IN NN , PRP MD VB JJ TO VB RB IN JJ NN IN NN IN VBG DT NNP NNP .
+Very nice unibody construction .***O O T-POS T-POS O***RB JJ JJ NN .
+Very disappointed with Apple .***O O O O O***RB JJ IN NNP .
+This Macbook Pro is fast , powerful , and runs super quiet and cool .***O O O O O O O O O T-POS O O O O O***DT NNP NNP VBZ JJ , JJ , CC VBZ RB JJ CC JJ .
+* * * The review below is no longer relevant , Apple has fixed the issue .***O O O O O O O O O O O O O O O O O***NFP NFP NFP DT NN RB VBZ DT RBR JJ , NNP VBZ VBN DT NN .
+It 's ok but does n't have a disk drive which I did n't know until after I bought it .***O O O O O O O O T-NEU T-NEU O O O O O O O O O O O***PRP VBZ JJ CC VBZ RB VB DT NN NN WDT PRP VBD RB VB IN IN PRP VBD PRP .
+There is no HDMI receptacle , nor is there an SD card slot located anywhere on the device .***O O O T-NEU T-NEU O O O O O T-NEU T-NEU T-NEU O O O O O O***EX VBZ DT NNP NN , CC VBZ EX DT NN NN NN VBN RB IN DT NN .
+It really is very light compared to other computers .***O O O O O O O O O O***PRP RB VBZ RB JJ VBN IN JJ NNS .
+It came in brand new and works perfectly .***O O O O O O T-POS O O***PRP VBD IN NN JJ CC VBZ RB .
+This machine is A - mazing .***O O O O O O O***DT NN VBZ NN HYPH NN .
+It should n't happen like that , I do n't have any design app open or anything .***O O O O O O O O O O O O T-NEU T-NEU O O O O***PRP MD RB VB IN DT , PRP VBP RB VB DT NN NN JJ CC NN .
+MY TRACKPAD IS NOT WORKING .***O T-NEG O O O O***PRP$ NNP VBZ RB VBG .
+I just hope this expensive laptop does n't go dead like my friendsit did last him 5 good years before it bit the dust .***O O O O O O O O O O O O O O O O O O O O O O O O O***PRP RB VBP DT JJ NN VBZ RB VB JJ IN PRP$ NN VBD VB PRP CD JJ NNS IN PRP VBD DT NN .
+Considering another computer should be out of the question***O O O O O O O O O***VBG DT NN MD VB IN IN DT NN
+It looks and feels solid , with a flawless finish .***O T-POS O T-POS O O O O O T-POS O***PRP VBZ CC VBZ JJ , IN DT JJ NN .
+Its worth every Penny .***O O O O O***PRP$ NN DT NN .
+Price was higher when purchased on MAC when compared to price showing on PC when I bought this product .***T-NEG O O O O O O O O O T-POS O O O O O O O O O***NN VBD JJR WRB VBN IN NNP WRB VBN IN NN VBG IN NN WRB PRP VBD DT NN .
+This was a great deal for a decked out MacBook Pro .***O O O O O O O O O O O O***DT VBD DT JJ NN IN DT VBN RP NNP NNP .
+Then the system would many times not power down without a forced power - off .***O O T-NEG O O O O T-NEG T-NEG O O O O O O O***RB DT NN MD JJ NNS RB NN RP IN DT VBN NN HYPH NN .
+Get this instead , you wo n't be sorry .***O O O O O O O O O O***VB DT RB , PRP MD RB VB JJ .
+The configuration is perfect for my needs .***O T-POS O O O O O O***DT NN VBZ JJ IN PRP$ NNS .
+and the speakers is the worst ever .***O O T-NEG O O O O O***CC DT NNS VBZ DT JJS RB .
+I think it was around 16 hundred bucks last I checked .***O O O O O O O O O O O O***PRP VBP PRP VBD RB CD CD NNS JJ PRP VBD .
+Its the best , its got the looks , super easy to use and love all you can do with the trackpad ! .***O O O O O O O T-POS O O O O T-POS O O O O O O O O T-POS O O***PRP$ DT JJS , PRP$ VBD DT NNS , RB JJ TO VB CC VB DT PRP MD VB IN DT NN . .
+It 's fast , quiet , incredibly small and affordable compared to other Mac models .***O O O O O O O O O O O O O O O O***PRP VBZ JJ , JJ , RB JJ CC JJ VBN IN JJ NNP NNS .
+Web surfuring is smooth and seamless .***T-POS T-POS O O O O O***NN NN VBZ JJ CC JJ .
+It was so exciting for me to unwrapp my new mac .***O O O O O O O O O O O O***PRP VBD RB JJ IN PRP TO VB PRP$ JJ NNP .
+I ' m overall pleased with the interface and the portability of this product .***O O O O O O O T-POS O O T-POS O O O O***PRP `` NN RB JJ IN DT NN CC DT NN IN DT NN .
+so when I had the money to buy one I bought other things insteada 700 laptop and some extra stuff with it .***O O O O O O O O O O O O O O O O O O O O O O O***RB WRB PRP VBD DT NN TO VB CD PRP VBD JJ NNS NNP CD NN CC DT JJ NN IN PRP .
+This item is a beautiful piece , it works well , it is easy to carry and handle .***O O O O O O O O T-POS O O O O O O T-POS O T-POS O***DT NN VBZ DT JJ NN , PRP VBZ RB , PRP VBZ JJ TO VB CC VB .
+See retired recently and decided that she wanted a laptop .***O O O O O O O O O O O***VB VBN RB CC VBD IN PRP VBD DT NN .
+It was also suffering from hardware ( keyboard ) issues , relatively slow performance and shortening battery lifetime .***O O O O O T-NEG T-NEG T-NEG T-NEG O O O O T-NEG O O T-NEG T-NEG O***PRP VBD RB VBG IN NN -LRB- NN -RRB- NNS , RB JJ NN CC VBG NN NN .
+I ' m no regular customer I hate wasting my time with hellos and how can I help you 's .***O O O O O O O O O O O O O O O O O O O O O***PRP `` CD DT JJ NN PRP VBP VBG PRP$ NN IN NNS CC WRB MD PRP VB PRP POS .
+Runs good and does the job , ca n't complain about that !***T-POS O O O O O O O O O O O O***VBZ JJ CC VBZ DT NN , MD RB VB IN DT .
+It 's silent and has a very small footprint on my desk .***O O O O O O O O T-POS O O O O***PRP VBZ JJ CC VBZ DT RB JJ NN IN PRP$ NN .
+I have nothing to regret from this new product .***O O O O O O O O O O***PRP VBP NN TO VB IN DT JJ NN .
+The exterior is absolutely gorgeous .***O T-POS O O O O***DT NN VBZ RB JJ .
+Have one myself and Love it !***O O O O O O O***VB CD PRP CC VB PRP .
+It has a very high performance , just for what I needed for .***O O O O O T-POS O O O O O O O O***PRP VBZ DT RB JJ NN , RB IN WP PRP VBD IN .
+This is especially disheartening when Apple prides itself as the choice of creative professionals .***O O O O O O O O O O O O O O O***DT VBZ RB VBG WRB NNP VBZ PRP IN DT NN IN JJ NNS .
+Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset .***O O O O O O O O O O O O O O O T-NEU O O T-NEU T-NEU T-NEU T-NEU O***NNP VBZ JJ IN DT NN CC DT VBZ DT JJ NN CC DT JJ NN VBG DT NNP CD NNS NN .
+Stop living in the stone age and buy a mac , you will not be sorry at all ! !***O O O O O O O O O O O O O O O O O O O O***VB VBG IN DT NN NN CC VB DT NN , PRP MD RB VB JJ RB RB . .
+OSX Mountain Lion soon to upgrade to Mavericks .***T-NEU T-NEU T-NEU O O O O T-NEU O***NNP NNP NNP RB TO VB IN NNP .
+Apple hit a home run here .***O O O O O O O***NNP VBD DT NN NN RB .
+I just bought the new MacBook Pro , the 13 model , and I ca n't believe Apple keeps making the same mistake with regard to USB ports .***O O O O O O O O O O O O O O O O O O O O O O O O O O T-NEG T-NEG O***PRP RB VBD DT JJ NNP NNP , DT CD NN , CC PRP MD RB VB NNP VBZ VBG DT JJ NN IN NN IN NN NNS .
+So glad I have gone this route ! !***O O O O O O O O O***RB JJ PRP VBP VBN DT NN . .
+It wakes in less than a second when I open the lid .***O T-POS O O O O O O O O O T-NEU O***PRP VBZ RP JJR IN DT JJ WRB PRP VBP DT NN .
+It is the perfect size and speed for me .***O O O O T-POS O T-POS O O O***PRP VBZ DT JJ NN CC NN IN PRP .
+I am so addict to this laptop .***O O O O O O O O***PRP VBP RB VB IN DT NN .
+THE CUSTOMER SERVICE IS TERRIFIC ! !***O T-POS T-POS O O O O***DT NNP NN VBZ NNP . .
+Trashed it when I spilled a latte on it while writing at a cafe .***O O O O O O O O O O O O O O O***VBD PRP WRB PRP VBD DT NN IN PRP IN VBG IN DT NN .
+My last laptop was a 17 ASUS gaming machine , which performed admirably , but having since built my own desktop and really settling into the college life , I found myself wanting something smaller and less cumbersome , not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago .***O O O O O O O O O O O T-POS O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP$ JJ NN VBD DT CD NNP NN NN , WDT VBD RB , CC VBG IN VBN PRP$ JJ NN CC RB VBG IN DT NN NN , PRP VBD PRP VBG NN JJR CC RBR JJ , RB TO VB IN DT NNP VBD VBN RB VBG NNS RB IN PRP VBD PRP RB CD NNS RB .
+However , it did not have any scratches , ZERO battery cycle count pretty surprised , and all the hardware seemed to be working perfectly .***O O O O O O O O O O T-POS T-POS T-POS O O O O O O T-POS O O O O O O***RB , PRP VBD RB VB DT NNS , NNP NN NN NN RB JJ , CC PDT DT NN VBD TO VB VBG RB .
+After fumbling around with the OS I started searching the internet for a fix and found a number of forums on fixing the issue .***O O O O O T-NEG O O O O O O O O O O O O O O O O O O O***IN VBG RP IN DT NN PRP VBD VBG DT NN IN DT NN CC VBD DT NN IN NNS IN VBG DT NN .
+I could n't be more pleased .***O O O O O O O***PRP MD RB VB RBR JJ .
+And as for all the fancy finger swipes - I just gave up and attached a mouse .***O O O O O O T-NEG T-NEG O O O O O O O O T-NEU O***CC IN IN PDT DT JJ NN VBZ : PRP RB VBD RP CC VBD DT NN .
+I needed a laptop with big storage , a nice screen and fast so I can photoshop without any problem .***O O O O O O T-NEU O O O T-NEU O O O O O T-NEU O O O O***PRP VBD DT NN IN JJ NN , DT JJ NN CC VBP IN PRP MD VB IN DT NN .
+I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $ 400 old HP laptop .***O O O O O T-POS T-POS O O O O O O T-NEG T-NEG O O O O O O O O O***PRP VBP VBG RB IN NNP NNP CC DT NN VBZ VBG IN NNP NNP VBN IN PRP$ $ CD JJ NNP NN .
+It is much better than the Acer ultrabook I had before .***O O O O O O O O O O O O***PRP VBZ RB JJR IN DT NNP NN PRP VBD RB .
+Shipped very quickly and safely .***T-POS O O O O O***VBN RB RB CC RB .
+I finally own a piece of computing equipment that I do n't want to take a baseball bat and destroy .***O O O O O O O O O O O O O O O O O O O O O***PRP RB VBP DT NN IN VBG NN WDT PRP VBP RB VB TO VB DT NN NN CC VB .
+The thunderbolt port is awesome !***O T-POS T-POS O O O***DT NN NN VBZ JJ .
+User friendly , fast and high tech It is amazing !***O O O O O O O O O O O***NNP JJ , JJ CC JJ NN PRP VBZ JJ .
+The performance is definitely superior to any computer I ' ve ever put my hands on .***O T-POS O O O O O O O O O O O O O O O***DT NN VBZ RB JJ IN DT NN PRP `` XX RB VBD PRP$ NNS RP .
+It 's great for streaming video and other entertainment uses .***O O O O T-POS T-POS O O T-POS T-POS O***PRP VBZ JJ IN VBG NN CC JJ NN NNS .
+Apple did a great job .***O O O O O O***NNP VBD DT JJ NN .
+I like the design and its features but there are somethings I think needs to be improved .***O O O T-POS O O T-POS O O O O O O O O O O O***PRP VBP DT NN CC PRP$ NNS CC EX VBP NNS PRP VBP VBZ TO VB VBN .
+There were small problems with Mac office .***O O O O O T-NEG T-NEG O***EX VBD JJ NNS IN NNP NN .
+It is extremely fast and very compact .***O O O O O O O O***PRP VBZ RB JJ CC RB JJ .
+I understand I should call Apple Tech Support about any variableswhich is my purpose of writing this con as variables could be a bigger future problem .***O O O O O T-NEU T-NEU T-NEU O O O O O O O O O O O O O O O O O O O***PRP VBP PRP MD VB NNP NNP NNP IN DT NN VBZ PRP$ NN IN VBG DT NN IN NNS MD VB DT JJR JJ NN .
+I ordered my 2012 mac mini after being disappointed with spec of the new 27 Imacs .***O O O O O O O O O O T-NEG O O O O O O***PRP VBD PRP$ CD NNP NNP IN VBG VBN IN NN IN DT JJ CD NNP .
+It still works and it 's extremely user friendly , so I would recommend it for new computer user and also for those who are just looking for a more efficient way to do things***O O T-POS O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP RB VBZ CC PRP VBZ RB NN JJ , CC PRP MD VB PRP IN JJ NN NN CC RB IN DT WP VBP RB VBG IN DT RBR JJ NN TO VB NNS
+Its fast , easy to use and it looks great .***O O O O O T-POS O O T-POS O O***PRP$ JJ , JJ TO VB CC PRP VBZ JJ .
+but Office can be purchased IF I ever need a laptop again I am for sure purchasing another Toshiba ! !***O T-NEU O O O O O O O O O O O O O O O O O O O***CC NN MD VB VBN IN PRP RB VBP DT NN RB PRP VBP IN JJ VBG DT NNP . .
+I have n't tried the one with retina display Maybe in the future .***O O O O O O O T-NEU T-NEU O O O O O***PRP VBP RB VBN DT NN IN NNP NN RB IN DT NN .
+You can read all about the details of this marvelous computer on wikipedia .***O O O O O O O O O O O O O O***PRP MD VB RB IN DT NNS IN DT JJ NN IN NN .
+Performance is much much better on the Pro , especially if you install an SSD on it .***T-POS O O O O O O O O O O O O O T-POS O O O***NN VBZ RB RB JJR IN DT JJ , RB IN PRP VBP DT NN IN PRP .
+Note , however , that any existing MagSafe accessories you have will not work with the MagSafe 2 connection .***O O O O O O O T-NEU T-NEU O O O O O O O T-NEG T-NEG T-NEG O***VB , RB , IN DT VBG NNP NNS PRP VBP MD RB VB IN DT NNP CD NN .
+If you get a lemon I have two thirds of my Macs , you have to send it in for repairs several times before they will replace it , even if they have numerous problems with the same version of their computers .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***IN PRP VBP DT NN PRP VBP CD NNS IN PRP$ NNPS , PRP VBP TO VB PRP RB IN NNS JJ NNS IN PRP MD VB PRP , RB IN PRP VBP JJ NNS IN DT JJ NN IN PRP$ NNS .
+The only thing I dislike is the touchpad , alot of the times its unresponsive and does things I do n't want it too , I would recommend using a mouse with it .***O O O O O O O T-NEG O O O O O O O O O O O O O O O O O O O O O O T-NEU O O O***DT JJ NN PRP VBP VBZ DT NN , NN IN DT NNS PRP$ NN CC VBZ NNS PRP VBP RB VB PRP RB , PRP MD VB VBG DT NN IN PRP .
+Yeah , it 's super expensive .***O O O O O O O***UH , PRP VBZ RB JJ .
+The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet , actually the fans are n't audible unlike my old pc***O O O O O O O O O O O O O O O O O T-POS O O O O O T-POS O O O O O O O***DT NNP NN VBZ IN NN JJR IN PRP$ JJ NN WDT VBZ DT JJ NN CC VBZ RB JJ , RB DT NNS VBP RB JJ IN PRP$ JJ NN
+MAYBE The Mac OS improvement were not The product they Want to offer .***O O T-NEG T-NEG O O O O O O O O O O***RB DT NNP NNP NN VBD RB DT NN PRP VBP TO VB .
+It came before the day it supposed to which is great .***O O O O O O O O O O O O***PRP VBD IN DT NN PRP VBD TO WDT VBZ JJ .
+I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem .***O O O O O O O O O O O O O O O O O O O O O T-NEU T-NEU O***PRP VBD DT NN MD VB JJ IN JJS CC MD VB DT NN TO RB VB PRP IN DT JJ NNP NN .
+It 's absolutely wonderful and worth the price !***O O O O O O O T-POS O***PRP VBZ RB JJ CC JJ DT NN .
+It 's a good fix , in my opinion .***O O O O O O O O O O***PRP VBZ DT JJ NN , IN PRP$ NN .
+I am please with the products ease of use ; out of the box ready ; appearance and functionality .***O O O O O O O O T-POS O O O O O O O T-POS O T-POS O***PRP VBP JJ IN DT NNS NN IN NN : IN IN DT NN JJ : NN CC NN .
+Buying a Mac Mini would allow me to make the transition .***O O O O O O O O O O O O***VBG DT NNP NNP MD VB PRP TO VB DT NN .
+Before I begin , I will say that I am not like a good percentage of the people that will end up writing a review on this computer , I am not an Apple fanboy .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***IN PRP VBP , PRP MD VB IN PRP VBP RB IN DT JJ NN IN DT NNS WDT MD VB RP VBG DT NN IN DT NN , PRP VBP RB DT NNP NN .
+its by far faster and more stable then my PC .***O O O O O O O O O O O***PRP$ IN RB RBR CC RBR JJ RB PRP$ NN .
+I purchased a MacBook Pro and this to replace a couple of HP units that I was using .***O O O O O O O O O O O O O O O O O O O***PRP VBD DT NNP NNP CC DT TO VB DT NN IN NNP NNS WDT PRP VBD VBG .
+you will not regret it , promise you !***O O O O O O O O O***PRP MD RB VB PRP , VB PRP .
+Moving from a PC to Mac has never been easier , and I ' m glad that I did it .***O O O O O O O O O O O O O O O O O O O O O***VBG IN DT NN IN NNP VBZ RB VBN JJR , CC PRP CC NN NN WDT PRP VBD PRP .
+Perfect for all my graphic design classes I ' m taking this year in college , -***O O O O T-POS T-POS O O O O O O O O O O O***JJ IN PDT PRP$ JJ NN NNS PRP `` NN VBG DT NN IN NN , .
+Have used only Macs for years .***O O O O O O O***VBP VBN RB NNP IN NNS .
+Being a tech savvy , APPLE , product loving person , I ' m glad I finally got the MacBook Pro !***O O O O O O O O O O O O O O O O O O O O O O***VBG DT NN NN , NNP , NN VBG NN , PRP `` NN NN PRP RB VBD DT NNP NNP .
+I was always against them but now I buying one I 'll never go back to PC .***O O O O O O O O O O O O O O O O O O***PRP VBD RB IN PRP CC RB PRP VBG NN PRP MD RB VB RB IN NN .
+I will not be using that slot again .***O O O O O O T-NEG O O***PRP MD RB VB VBG DT NN RB .
+I think that was a great decision to buy***O O O O O O O O O***PRP VBP DT VBD DT JJ NN TO VB
+The OS is fast and fluid , everything is organized and it 's just beautiful .***O T-POS O O O O O O O O O O O O O O***DT NNP VBZ JJ CC JJ , NN VBZ VBN CC PRP VBZ RB JJ .
+It will make life so much easier next semester , just wish I had it last semester ! !***O O O O O O O O O O O O O O O O O O O***PRP MD VB NN RB RB JJR JJ NN , RB VB PRP VBD PRP JJ NN . .
+I paid for a new laptop , but was sent a used one .***O O O O O O O O O O O O O O***PRP VBD IN DT JJ NN , CC VBD VBN DT VBN NN .
+Searched it on amazon and on bestbuy .***O O O O O O O O***VBD PRP IN NNP CC IN NNP .
+I bought this one for my 11 year old and the MacBook Air for my 9 year old .***O O O O O O O O O O O O O O O O O O O***PRP VBD DT NN IN PRP$ CD NN JJ CC DT NNP NNP IN PRP$ CD NN JJ .
+I bought it for college and so far it 's amazing !***O O O O O O O O O O O O***PRP VBD PRP IN NN CC RB RB PRP VBZ JJ .
+They are simpler to use .***O O O O T-POS O***PRP VBP JJR TO VB .
+It was at my door in less than 24 hours .***O O O O O O O O O O O***PRP VBD IN PRP$ NN IN JJR IN CD NNS .
+It 's also very pricey but you just have to tell yourself it 's an investment and that it 's gon na last you a long time .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBZ RB RB JJ CC PRP RB VBP TO VB PRP PRP VBZ DT NN CC IN PRP VBZ VBG TO VB PRP DT JJ NN .
+It was getting old and I needed a new school computer .***O O O O O O O O O O O O***PRP VBD VBG JJ CC PRP VBD DT JJ NN NN .
+! so nice stable fast now i got my SSD ! .***O O O O O O O O O T-POS O O***. RB JJ JJ RB RB PRP VBD PRP$ NNP . .
+I love apple but unlike others That does not prevent me to not be honest about how i like it and if its good or not .***O O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBP NN CC IN NNS WDT VBZ RB VB PRP TO RB VB JJ IN WRB PRP VBP PRP CC IN PRP$ JJ CC RB .
+So , I ' m cooled on Mac buys .***O O O O O O O O O O***CC , PRP `` NNP VBD IN NNP NNS .
+It is a great computer for that and I have to say I ' m happy I switched .***O O O O O O O O O O O O O O O O O O O***PRP VBZ DT JJ NN IN DT CC PRP VBP TO VB PRP `` NN JJ PRP VBD .
+Also , in using the built - in camera , my voice recording for my vlog sounds like the interplanetary transmissions in the Star Wars saga .***O O O O O T-NEU T-NEU T-NEU T-NEU O O T-NEG T-NEG O O O O O O O O O O O O O O***RB , IN VBG DT VBN HYPH RP NN , PRP$ NN NN IN PRP$ NN VBZ IN DT JJ NNS IN DT NNP NNPS NN .
+Overall a nice computer .***O O O O O***RB DT JJ NN .
+You can imagine that an expensive item as a laptop will not be left on your front steps , it needs signature to pove that you received it .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP MD VB IN DT JJ NN IN DT NN MD RB VB VBN IN PRP$ JJ NNS , PRP VBZ NN TO VB IN PRP VBD PRP .
+I love the quick start up .***O O O O T-POS T-POS O***PRP VBP DT JJ NN RP .
+Yes , he is a self professed Mac snob .***O O O O O O O O O O***UH , PRP VBZ DT NN VBD NNP VBD .
+You just can not beat the functionality of an Apple device .***O O O O O O T-POS O O O O O***PRP RB MD RB VB DT NN IN DT NNP NN .
+Yet my mac continues to function properly .***O O O O O T-POS O O***RB PRP$ NN VBZ TO VB RB .
+Graphics are much improved .***T-POS O O O O***NNS VBP RB VBN .
+Here are the things that made me confident with my purchase , Build Quality , Seriously , you ca n't beat a unibody construction .***O O O O O O O O O O O O T-POS T-POS O O O O O O O O T-POS T-POS O***RB VBP DT NNS WDT VBD PRP JJ IN PRP$ NN , NNP NNP , RB , PRP MD RB VB DT JJ NN .
+It 's the mid 2012 version .***O O O O O O O***PRP VBZ DT NNP CD NN .
+It provides much more flexibility for connectivity .***O O O O T-POS T-POS T-POS O***PRP VBZ RB JJR NN IN NN .
+I want the portability of a tablet , without the limitations of a tablet and that 's where this laptop comes into play .***O O O T-POS O O O O O O O O O O O O O O O O O O O O***PRP VBP DT NN IN DT NN , IN DT NNS IN DT NN CC DT VBZ WRB DT NN VBZ IN NN .
+I have had many , many issues with PC 's in the past and I ' m finally glad to have joined the Mac revolution !***O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBP VBN JJ , JJ NNS IN NNP POS IN DT NN CC PRP `` NN RB JJ TO VB VBN DT NNP NN .
+Mac tutorials do help .***T-POS T-POS O O O***NNP NNS VBP NN .
+When it broke I wanted another Acer and chose the V5 .***O O O O O O O O O O O O***WRB PRP VBD PRP VBD DT NNP CC VBD DT NN .
+The technical support was not helpful as well .***O T-NEG T-NEG O O O O O O***DT JJ NN VBD RB JJ RB RB .
+I got the new adapter and there was no change .***O O O O T-NEU O O O O O O***PRP VBD DT JJ NN CC EX VBD DT NN .
+so i called technical support .***O O O T-NEU T-NEU O***RB PRP VBD JJ NN .
+Nothing about it that i do n't love , apple always makes a great product .***O O O O O O O O O O O O O O O O***NN IN PRP WDT PRP VBP RB VB , NN RB VBZ DT JJ NN .
+I saved about $ 100 plus tax ordering on Amazon and since I have prime , it arrived overnight for just $ 399 more .***O O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBD RB $ CD CC NN NN IN NNP CC IN PRP VBP NN , PRP VBD RB IN RB $ CD JJR .
+Came with iPhoto and garage band already loaded .***O O T-NEU O T-NEU T-NEU O O O***VBD IN NNP CC NN NN RB JJ .
+It 's all a bit magical .***O O O O O O O***PRP VBZ PDT DT NN JJ .
+Logic board utterly fried , cried , and laid down and died .***T-POS T-POS O O O O O O O O O O O***NNP NN RB VBD , VBD , CC VBD RP CC VBD .
+It is BLAZING fast !***O O O O O***PRP VBZ VBG RB .
+The sound was crappy even when you turn up the volume still the same results .***O T-NEG O O O O O O O O T-NEG O O O O O***DT NN VBD JJ RB WRB PRP VBP RP DT NN RB DT JJ NNS .
+i ve never had a problem with it !***O O O O O O O O O***PRP VB RB VBN DT NN IN PRP .
+I currently own a Lenovo laptop as well as my new MacBook Pro , and each have their own strengths and weaknesses .***O O O O O O O O O O O O O O O O O O O O O O O***PRP RB VBP DT NNP NN RB RB IN PRP$ JJ NNP NNP , CC DT VBP PRP$ JJ NNS CC NNS .
+OSX Lion is a great performerextremely fast and reliable .***T-POS T-POS O O O O O O O O***NNP NNP VBZ DT JJ RB JJ CC JJ .
+Best commuter I have ever owned .***O O O O O O O***JJS NN PRP VBP RB VBN .
+What can I say , It 's an Apple .***O O O O O O O O O O***WP MD PRP VB , PRP VBZ DT NNP .
+Having heard from friends and family about how reliable a Mac product is , I never expected to have an application crash within the first month , but I did .***O O O O O O O O O O O O O O O O O O O O T-NEG O O O O O O O O O O***VBG VBN IN NNS CC NN IN WRB JJ DT NNP NN VBZ , PRP RB VBD TO VB DT NN NN IN DT JJ NN , CC PRP VBD .
+The Macbook pro 's physical form is wonderful .***O O O O T-POS T-POS O O O***DT NNP NN POS JJ NN VBZ JJ .
+I have an iPhone , and iPad , so it just made sense to finish off the platform by adding the Mini .***O O O O O O O O O O O O O O O O O O O O O O O***PRP VBP DT NNP , CC NNP , RB PRP RB VBD NN TO VB RP DT NN IN VBG DT NNP .
+Not super light but still a good one .***O O O O O O O O O***RB RB JJ CC RB DT JJ NN .
+The Mini 's body has n't changed since late 2010 and for a good reason .***O O O T-POS O O O O O O O O O O O O***DT NNP POS NN VBZ RB VBN IN JJ CD CC IN DT JJ NN .
+The unibody construction really does feel lot more solid than Apple 's previous laptops .***O T-POS T-POS O O O O O O O O O O O O***DT JJ NN RB VBZ VB NN RBR JJ IN NNP POS JJ NNS .
+i had to return it for a replacement .***O O O O O O O O O***PRP VBD TO VB PRP IN DT NN .
+It was wonderful deal for the wonderful product .***O O O O O O O O O***PRP VBD JJ NN IN DT JJ NN .
+It completely supports my home business and personal life .***O O O O O O O O O O***PRP RB VBZ PRP$ NN NN CC JJ NN .
+3D rendering slows it down considerably .***T-NEG T-NEG O O O O O***JJ VBG VBZ PRP RB RB .
+Got this Mac Mini with OS X Mountain Lion for my wife .***O O O O O T-NEU T-NEU T-NEU T-NEU O O O O***VBP DT NNP NNP IN NNP NNP NNP NNP IN PRP$ NN .
+I am pleased to report that it is one of the best presents I have received to date .***O O O O O O O O O O O O O O O O O O O***PRP VBP JJ TO VB IN PRP VBZ CD IN DT JJS NNS PRP VBP VBN IN NN .
+Every day I had this computer , something failed on it .***O O O O O O O O O O O O***DT NN PRP VBD DT NN , NN VBD IN PRP .
+fast , great screen , beautiful apps for a laptop ; priced at 1100 on the apple website ; amazon had it for 1098 + tax , plus i had a 10 % off coupon from amazon - ASPECT3 me 998 plus tax 1070 OTD !***O O O T-POS O O T-POS O O O O T-NEU O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***JJ , JJ NN , JJ NNS IN DT NN , VBN IN CD IN DT NN NN : NNP VBD PRP IN CD CC NN , CC PRP VBD DT CD NN IN NN IN NNP : VBZ PRP CD CC NN CD NNP .
+1244 seconds to boot .***O O O T-NEU O***CD NNS IN NN .
+All the ports are much needed since this is my main computer .***O O T-NEU O O O O O O O O O O***PDT DT NNS VBP RB VBN IN DT VBZ PRP$ JJ NN .
+The Like New condition of the iMac MC309LL / A on Amazon is at $ 900 + level only , and it is a Quad - Core 2.5 GHz CPU similar to the $ 799 Mini , with Radeon HD 6750 M 512 MB graphic card this mini is integrated Intel 4000 card , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package .***O O O O O O O O O O O O O O O O O O O O O O O O T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU O O O O O O O O T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU O O O T-NEU T-NEU T-NEU T-NEU O O O O O O T-NEU T-NEU T-NEU T-NEU T-NEU O O O O O O O O T-POS O***DT IN JJ NN IN DT NNP NNP , NN IN NNP VBZ IN $ CD CD NN RB , CC PRP VBZ DT NNP HYPH NNP CD NNS NN JJ IN DT $ CD NNP , IN NNP NNP CD NNP CD NN JJ NN DT NN VBZ VBN NNP CD NN , CC PRP RB VBZ IN JJ NNP NNP CC NNP , DT VBP RB IN JJ CC JJ NN .
+Put a cover on it and is a little better but that is my only complaint .***O O T-NEU O O O O O O O O O O O O O O***VB DT NN IN PRP CC VBZ DT RB JJR CC DT VBZ PRP$ JJ NN .
+Within a few hours I was using the gestures unconsciously .***O O O O O O O O T-POS O O***IN DT JJ NNS PRP VBD VBG DT NNS RB .
+This mac does come with an extender cable and I ' m using mine right now hoping the cable will stay nice for the many years I plan on using this mac .***O O O O O O T-NEU T-NEU O O O O O O O O O O T-POS O O O O O O O O O O O O O O***DT NN VBZ VB IN DT NN NN CC PRP `` NNP VBG NN RB RB VBG DT NN MD VB JJ IN DT JJ NNS PRP VBP IN VBG DT NN .
+This is the third in a series of MacBooks starting with a Black MacBook .***O O O O O O O O O O O O O O O***DT VBZ DT JJ IN DT NN IN NNP VBG IN DT NNP NNP .
+The 2.9ghz dual - core i7 chip really out does itself .***O T-POS T-POS T-POS T-POS T-POS T-POS O O O O O***DT CD JJ HYPH NN NN NN RB RB VBZ PRP .
+My life has been enriched since I have been using Apple products .***O O O O O O O O O O O O O***PRP$ NN VBZ VBN VBN IN PRP VBP VBN VBG NNP NNS .
+i FINALLY DID IT AND THIS MACHINE IS THE WAY TO GO !***O O O O O O O O O O O O O***PRP NNP VBD PRP CC DT NNP VBZ DT NN IN NNP .
+It is pretty snappy and starts up in about 30 seconds which is good enough for me .***O O O O O T-POS T-POS O O O O O O O O O O O***PRP VBZ RB JJ CC VBZ RP IN RB CD NNS WDT VBZ JJ RB IN PRP .
+The few things that are wrong with it are very minor things .***O O O O O O O O O O O O O***DT JJ NNS WDT VBP JJ IN PRP VBP RB JJ NNS .
+So noise is reduced at least 50 % and the heat is much better , now it does n't feel hot but warm .***O O O O O O O O O O O O O O O O O O O O O O O O***RB NN VBZ VBN IN JJS CD NN CC DT NN VBZ RB JJR , RB PRP VBZ RB VB JJ CC JJ .
+Not sure on Windows 8 .***O O O T-NEU T-NEU O***RB JJ IN NNP CD .
+It 's a lottery at this point as I have read that other have received new ones with the same problem .***O O O O O O O O O O O O O O O O O O O O O O***PRP VBZ DT NN IN DT NN IN PRP VBP VBN IN JJ VBP VBN JJ NNS IN DT JJ NN .
+My one complaint is that there was no internal CD drive .***O O O O O O O O T-NEG T-NEG T-NEG O***PRP$ CD NN VBZ IN EX VBD DT JJ NN NN .
+This newer netbook has no hard drive or network lights .***O O O O O T-NEU T-NEU O T-NEU T-NEU O***DT JJR NN VBZ DT JJ NN CC NN NNS .
+This is the first time for me to use a Mac and I ' m really happy with the move .***O O O O O O O O O O O O O O O O O O O O O***DT VBZ DT JJ NN IN PRP TO VB DT NNP CC PRP `` NNP RB JJ IN DT NN .
+No complaints for an Apple product .***O O O O O O O***DT NNS IN DT NNP NN .
+The new MacBook is lightyears ahead of my old white plastic MacBook circa 2006 .***O O O O O O O O O O O O O O O***DT JJ NNP VBZ NNS RB IN PRP$ JJ JJ NN NNP NN CD .
+I would say that 85 % of the design industry is Mac for good reason .***O O O O O O O O O O O O O O O O***PRP MD VB IN CD NN IN DT NN NN VBZ NNP IN JJ NN .
+I was having a though time deciding between the 13 MacBook Air or the MacBook Pro 13 Both baseline models , priced at 1,200 $ retail***O O O O O O O O O O O O O O O O O O O O O T-NEU O O O O***PRP VBD VBG DT JJ NN VBG IN DT CD NNP NNP CC DT NNP NNP CD DT NN NNS , VBN IN CD $ NN
+The last new mac I bought was in 1998 .***O O O O O O O O O O***DT JJ JJ NN PRP VBD VBD IN CD .
+There are reviews that speak to a few possible glitches but , I have n't seen them yet .***O O O O O O O O O O O O O O O O O O O***EX VBP NNS WDT VBP IN DT JJ JJ NNS CC , PRP VBP RB VBN PRP RB .
+Not too expense and has enough storage for most users and many ports .***O O O O O O T-POS O O O O O T-POS O***RB RB JJ CC VBZ JJ NN IN JJS NNS CC JJ NNS .
+I am very satisfied with the mini .***O O O O O O O O***PRP VBP RB JJ IN DT NN .
+The audio volume is quite low and virtually unusable in a room with any background activity .***O T-NEG T-NEG O O O O O O O O O O O O O O***DT JJ NN VBZ RB JJ CC RB JJ IN DT NN IN DT NN NN .
+I am going to college next year and I needed a cheaper , quality computer for the goals I am trying to pursue .***O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBP VBG IN NN JJ NN CC PRP VBD DT JJR , NN NN IN DT NNS PRP VBP VBG TO VB .
+In the short time of one month since the 2012 Mac Mini was released there are well over 1000 posts regarding this issue and the numbers keep rising .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***IN DT JJ NN IN CD NN IN DT CD NNP NNP VBD VBN EX VBP RB IN CD NNS VBG DT NN CC DT NNS VBP VBG .
+It is lightweight and the perfect size to carry to class .***O O O O O O T-POS O O O O O***PRP VBZ JJ CC DT JJ NN TO VB IN NN .
+If you have to ask you do n't own a Mac and your just not in the know .***O O O O O O O O O O O O O O O O O O O***IN PRP VBP TO VB PRP VBP RB VB DT NNP CC PRP$ RB RB IN DT NN .
+All my devises talk to each other .***O O O O O O O O***DT PRP$ NNS VBP IN DT JJ .
+Why not 5 stars ?***O O O O O***WRB RB CD NNS .
+Very Very Highly Recommended .***O O O O O***RB RB RB VBN .
+? I am only interested in the 154 McBook Pro Model # MD103LL / A .***O O O O O O O O O O O O O O O O***. PRP VBP RB JJ IN DT CD NNP NNP NNP $ NNP , NN .
+I do n't know why I did n't make the switch soonero ya because it 's expensive .***O O O O O O O O O O O O O O O O O O***PRP VBP RB VB WRB PRP VBD RB VB DT NN NNS PRP IN PRP VBZ JJ .
+I was given a demonstration of Windows 8 .***O O O O O O T-NEU T-NEU O***PRP VBD VBN DT NN IN NNP CD .
+The Macbook Pro is the premier choice for college students .***O O O O O O O O O O O***DT NNP NNP VBZ DT NN NN IN NN NNS .
+Their products , including the MBP , are beautiful , sleek and clever .***O O O O O O O O O O O O O O***PRP$ NNS , VBG DT NNP , VBP JJ , JJ CC JJ .
+The MBP is beautiful has many wonderful capabilities .***O O O O O O O T-POS O***DT NNP VBZ JJ VBZ JJ JJ NNS .
+I thought that it will be fine , if i do some settings .***O O O O O O O O O O O O T-NEU O***PRP VBD IN PRP MD VB JJ , IN PRP VBP DT NNS .
+Runs very smoothly .***T-POS O O O***VBZ RB RB .
+Perfect -- thanks so .***O O O O O***JJ : NNS RB .
+Also , it hardly ever crashes .***O O O O O O O***RB , PRP RB RB VBZ .
+I was so excited to get this in the mail i nearly gave myself a heart attack .***O O O O O O O O O O O O O O O O O O***PRP VBD RB JJ TO VB DT IN DT NN PRP RB VBD PRP DT NN NN .
+Boot - up slowed significan'tly after all Windows updates were installed .***T-NEG T-NEG T-NEG O O O O T-NEG T-NEG O O O***NN HYPH NNP VBD RB IN DT NNP NNS VBD VBN .
+More likely it will require replacing the logic board once they admit they have a problem and come up with a solution .***O O O O O O O T-NEG T-NEG O O O O O O O O O O O O O O***RBR JJ PRP MD VB VBG DT NN NN IN PRP VBP PRP VBP DT NN CC VB RP IN DT NN .
+When i finally held it in my hands i kissed it , yes i did .***O O O O O O O O O O O O O O O O***WRB PRP RB VBD PRP IN PRP$ NNS PRP VBD PRP , UH PRP VBD .
+It was important that it was powerful enough to do all of the tasks he needed on the internet , word processing , graphic design and gaming .***O O O O O O O O O O O O O O O O O O T-POS O T-POS T-POS O T-POS T-POS O T-POS O***PRP VBD JJ IN PRP VBD JJ RB TO VB DT IN DT NNS PRP VBD IN DT NN , NN NN , JJ NN CC NN .
+This computer is not cheap and represent an achievement for me .***O O O O O O O O O O O O***DT NN VBZ RB JJ CC VB DT NN IN PRP .
+I like the Mini Mac it was easy to setup and install , but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu .***O O O O O O O O O T-POS O T-POS O O O O O O O O O O O O T-NEU O O O O O O O O T-NEU O O O O O O O O O T-NEU T-NEU T-NEU T-NEU O***PRP VBP DT NNP NNP PRP VBD JJ TO VB CC VB , CC PRP VBP VBG IN PRP VBP CC MD VB DT NN TO VB WRB TO VB DT IN DT NNS PRP VBD NN IN IN DT NN RB DT JJ NN NN NN .
+GET THIS MACHINE***O O O***VB DT NN
+It 's shiny and it 's pretty .***O O O O O O O O***PRP VBZ JJ CC PRP VBZ JJ .
+Runs real quick .***T-POS O O O***VBZ RB RB .
+All the above aside this machine ROCKS !***O O O O O O O O***PDT DT JJ IN DT NN NNS .
+Buy the separate RAM memory and you will have a rocket !***O O O T-POS T-POS O O O O O O O***VB DT JJ NN NN CC PRP MD VB DT NN .
+Since the machine 's slim profile is critical to me , that was a problem .***O O O O O T-NEG O O O O O O O O O O***IN DT NN POS JJ NN VBZ JJ IN PRP , DT VBD DT NN .
+Bottom line , if you can afford it , get a Mac !***O O O O O O O O O O O O O***JJ NN , IN PRP MD VB PRP , VB DT NNP .
+I finally made the leap after my Gateway crapped out on me .***O O O O O O O O O O O O O***PRP RB VBD DT NN IN PRP$ NNP VBD RP IN PRP .
+WiFi capability , disk drive and multiple USB ports to connect scale and printers was all that was required .***T-POS T-POS O T-POS T-POS O O T-POS T-POS O O O O O O O O O O O***NNP NN , NN NN CC JJ NN NNS TO VB NN CC NNS VBD DT WDT VBD VBN .
+The SD card reader is slightly recessed and upside down the nail slot on the card can not be accessed , if this was a self ejecting slot this would not be an issue , but its not .***O T-NEG T-NEG T-NEG O O O O O O O T-NEG T-NEG T-NEG T-NEG T-NEG O O O O O O O O O O O T-NEG O O O O O O O O O O O***DT NN NN NN VBZ RB VBN CC RB IN DT NN NN IN DT NN MD RB VB VBN , IN DT VBD DT NN NN NN DT MD RB VB DT NN , CC PRP$ RB .
+Soft touch , anodized aluminum with laser cut precision and no flaws .***O T-POS O T-POS T-POS O O O O O O O O***JJ NN , JJ NN IN NN NN NN CC DT NNS .
+Simple details , crafted aluminium and real glass make this laptop blow away the other plastic ridden , bulky sticker filled laptops .***O O O O T-POS O O T-POS O O O O O O O O O O O O O O O***JJ NNS , JJ NN CC JJ NN VBP DT NN VB RB DT JJ NN VBN , JJ NN VBN NNS .
+First of all yes this is a mac and it has that nice brushed aluminum .***O O O O O O O O O O O O O O T-POS O***RB IN DT UH DT VBZ DT NNP CC PRP VBZ DT JJ JJ NN .
+Who makes a laptop that ca n't rest on your lap ?***O O O O O O O O O O O O***WP VBZ DT NN WDT MD RB VB IN PRP$ NN .
+After all was said and done , I essentially used that $ 450 savings to buy 16 GB of RAM , TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive .***O O O O O O O O O O O O O O O O T-NEU T-NEU T-NEU T-NEU O O T-NEU T-NEU T-NEU T-NEU T-NEU O O T-NEU T-NEU T-NEU O O O O T-NEU T-NEU O***RB DT VBD VBN CC VBN , PRP RB VBD IN $ CD NNS TO VB CD NNP IN NN , NNP NNP NNP NNP NN NNS CC DT NNP NN NN TO VB DT JJ JJ NN .
+The Dell Inspiron is fast and has a number pad on the keyboard , which I miss on my Apple laptops .***O O O O O O O O T-POS T-POS T-POS T-POS T-POS O O O O O O O O O***DT NNP NNP VBZ JJ CC VBZ DT NN NN IN DT NN , WDT PRP VBP IN PRP$ NNP NNS .
+wow the new macbook pro hanged as i tried to type this review .***O O O O O O O O O O O O O O***UH DT JJ NN JJ VBN IN PRP VBD TO VB DT NN .
+The MacBook Pro is a great product which can meet the needs of the average consumer .***O O O O O O O O O O O O O O O O O***DT NNP NNP VBZ DT JJ NN WDT MD VB DT NNS IN DT JJ NN .
+I was concerned that the downgrade to the regular hard drive would make it unacceptably slow but I need not have worried , this machine is the fastest I have ever owned .***O O O O O O O O T-POS T-POS T-POS O O O O O O O O O O O O O O O O O O O O O O***PRP VBD VBN IN DT NN IN DT JJ JJ NN MD VB PRP RB JJ CC PRP VBP RB VB VBN , DT NN VBZ DT JJS PRP VBP RB VBN .
+This one still has the CD slot .***O O O O O T-NEU T-NEU O***DT NN RB VBZ DT NN NN .
+No HDMI port .***O T-NEU T-NEU O***DT NNP NN .
+I had to install Mountain Lion and it took a good two hours .***O O O T-NEG T-NEG T-NEG O O O O O O O O***PRP VBD TO VB NNP NNP CC PRP VBD DT JJ CD NNS .
+Customization on mac is impossible .***T-NEG O O O O O***NN IN NNP VBZ JJ .
+I hope this review helps .***O O O O O O***PRP VBP DT NN VBZ .
+However , you have to adjust yourself to what it will do , not what you want it to do .***O O O O O O O O O O O O O O O O O O O O O***RB , PRP VBP TO VB PRP IN WP PRP MD VB , RB WP PRP VBP PRP TO VB .
+I am replacing the HD with a Micron SSD soon .***O O O O T-NEU O O T-NEU T-NEU O O***PRP VBP VBG DT NN IN DT NNP NNP RB .
+Plus two finger clicking as a replacement for the right click button is surprisingly intuitive .***O T-POS T-POS T-POS O O O O O T-NEU T-NEU T-NEU O O O O***CC CD NN VBG IN DT NN IN DT JJ NN NN VBZ RB JJ .
+Far superior to my MacBook .***O O O O O O***RB JJ IN PRP$ NNP .
+The SuperDrive is quiet .***O T-POS O O O***DT NNP VBZ JJ .
+It was quite easy .***O O O O O***PRP VBD RB JJ .
+The power plug has to be connected to the power adaptor to charge the battery but wo n't stay connected .***O T-NEG T-NEG O O O O O O T-NEU T-NEU O O O T-NEU O O O O O O***DT NN NN VBZ TO VB VBN IN DT NN NN TO VB DT NN CC MD RB VB JJ .
+I decided to buy a few notebooks for my nephews for Xmas .***O O O O O O O O O O O O O***PRP VBD TO VB DT JJ NNS IN PRP$ NNS IN NNP .
+The battery was completely dead , in fact it had grown about a quarter inch thick lump on the underside .***O T-NEG O O O O O O O O O O O O O O O O O O O***DT NN VBD RB JJ , IN NN PRP VBD VBN IN DT NN NN JJ NN IN DT NN .
+This is no exception .***O O O O O***DT VBZ DT NN .
+if yo like practicality this is the laptop for you .***O O O T-POS O O O O O O O***IN NNP IN NN DT VBZ DT NN IN PRP .
+The OS is great .***O T-POS O O O***DT NNP VBZ JJ .
+I have had a black macbook since 2007 .***O O O O O O O O O***PRP VBP VBN DT JJ NN IN CD .
+I tried several monitors and several HDMI cables and this was the case each time .***O O O T-NEU O O T-NEU T-NEU O O O O O O O O***PRP VBD JJ NNS CC JJ NNP NNS CC DT VBD DT NN DT NN .
+CONS , Price is a bit ridiculous , kinda heavy .***O O T-NEG O O O O O O O O***NNP , NNP VBZ DT NN JJ , RB JJ .
+If that is the case , then I am completely happy***O O O O O O O O O O O***IN DT VBZ DT NN , RB PRP VBP RB JJ
+10/10 five stars would recommend .***O O O O O O***CD CD NNS MD VB .
+The troubleshooting said it was the AC adaptor so we ordered a new one .***O O O O O O T-NEU T-NEU O O O O O O O***DT NN VBD PRP VBD DT NNP NN RB PRP VBD DT JJ NN .
+I fell in love with my machine , and it was pampered .***O O O O O O O O O O O O O***PRP VBD IN NN IN PRP$ NN , CC PRP VBD VBN .
+Fan only comes on when you are playing a game .***T-NEU O O O O O O T-NEU T-NEU T-NEU O***NNP RB VBZ RP WRB PRP VBP VBG DT NN .
+Which it did not have , only 3 USB 2 ports .***O O O O O O O O T-NEU T-NEU T-NEU O***WDT PRP VBD RB VB , RB CD NN CD NNS .
+No startup disk was not included but that may be my fault .***O T-NEU T-NEU O O O O O O O O O O***DT NN NN VBD RB VBN CC DT MD VB PRP$ NN .
+There is no " tools " menu .***O O O T-NEU T-NEU T-NEU T-NEU O***EX VBZ DT `` NNS '' NN .
+It is very fast and has everything that I need except for a word program .***O O O O O O O O O O O O O T-NEG T-NEG O***PRP VBZ RB JJ CC VBZ NN WDT PRP VBP IN IN DT NN NN .
+Needs a CD / DVD drive and a bigger power switch .***O O T-NEU T-NEU T-NEU T-NEU O O O T-NEG T-NEG O***VBZ DT NNP SYM NN NN CC DT JJR NN NN .
+It is the best laptop ever ! ! !***O O O O O O O O O***PRP VBZ DT JJS NN RB . . .
+My laptop with Windows 7 crashed and I did not want Windows 8 .***O O O T-NEG T-NEG O O O O O O T-NEG T-NEG O***PRP$ NN IN NNP CD VBD CC PRP VBD RB VB NNP CD .
+Was skeptical about buying an electronic item online but it turned out to be a positive experience .***O O O O O O O O O O O O O O O O O O***VBD JJ IN VBG DT JJ NN RB CC PRP VBD RP TO VB DT JJ NN .
+Not a scratch or mark on it .***O O O O O O O O***RB DT NN CC VB IN PRP .
+Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi .***O O T-POS O O O O O O O O O O O O T-POS T-POS T-POS T-POS T-POS T-POS O***JJ TO VB RB JJ TO VB RB IN PRP$ NN RB RB JJ TO VB IN NNS NN CC NN .
+Words can not express how much I love my new Mac .***O O O O O O O O O O O O***NNS MD RB VB WRB RB PRP VBP PRP$ JJ NNP .
+The speakers could have been better but it was n't a deal breaker this is a great little laptop love it ! .***O O O O O O O O O O O O O O O O O O O O O O O***DT NNS MD VB VBN JJR CC PRP VBD RB DT NN NN DT VBZ DT JJ JJ NN NN PRP . .
+The item received was exactly as identified .***O O O O O O O O***DT NN VBD VBD RB IN VBN .
+Its everything mac offers .***O O O O O***PRP$ NN NNP VBZ .
+Nice packing .***O T-POS O***JJ NN .
+Besides being elegant , the MacBooks are durable .***O O O O O O O O O***IN VBG JJ , DT NNS VBP JJ .
+I switched to this because I wanted something different , even though I miss windows .***O O O O O O O O O O O O O O T-POS O***PRP VBD IN DT IN PRP VBD NN JJ , RB IN PRP VBP NNS .
+Yes , the MBP is more expensive than competing PC laptops .***O O O O O O O O O O O O***UH , DT NNP VBZ RBR JJ IN VBG NN NNS .
+Apple no longer includes iDVD with the computer and furthermore , Apple does n't even offer it anymore !***O O O O T-NEG O O O O O O O O O O O O O O***NNP RB RBR VBZ JJ IN DT NN CC RB , NNP VBZ RB RB VB PRP RB .
+I also wanted Windows 7 , which this one has .***O O O T-POS T-POS O O O O O O***PRP RB VBD NNP CD , WDT DT NN VBZ .
+At first , I feel a little bit uncomfortable in using the Mac system .***O O O O O O O O O O O O T-NEG T-NEG O***IN RB , PRP VBP DT JJ NN JJ IN VBG DT NNP NN .
+I am used to computers with windows so I am having a little difficulty finding my way around .***O O O O O O T-NEU O O O O O O O O O O O O***PRP VBP VBN IN NNS IN NNS IN PRP VBP VBG DT JJ NN VBG PRP$ NN RB .
+They replaced it and so far so good .***O O O O O O O O O***PRP VBD PRP CC RB RB RB JJ .
+It just works out of the box and you have a lot of cool software included with the OS .***O O T-POS O O O O O O O O O O O T-POS O O O T-NEU O***PRP RB VBZ IN IN DT NN CC PRP VBP DT NN IN JJ NN VBN IN DT NN .
+Good in every aspect .***O O O O O***JJ IN DT NN .
+its as advertised on here it works great and is not a waste of money ! .***O O O O O O T-POS O O O O O O O O O O***PRP$ IN VBN IN RB PRP VBZ JJ CC VBZ RB DT NN IN NN . .
+Replaced this one with my mac that was stolen , its a great computer .***O O O O O O O O O O O O O O O***VBD DT NN IN PRP$ NN WDT VBD VBN , PRP$ DT JJ NN .
+Just be careful ; you always have to give up some good stuff for others .***O O O O O O O O O O O O O O O O***RB VB JJ : PRP RB VBP TO VB RP DT JJ NN IN NNS .
+Runs like a champ .***T-POS O O O O***NNS IN DT NN .
+Really greatWell let me start at the beginning .***O O O O O O O O O***RB UH VB PRP VB IN DT NN .
+Premium price for the OS more than anything else .***O T-POS O O T-NEU O O O O O***JJ NN IN DT NN JJR IN NN RB .
+This was a gift for my grand son .***O O O O O O O O O***DT VBD DT NN IN PRP$ JJ NN .
+I was a little concerned about the touch pad based on reviews , but I ' ve found it fine to work with .***O O O O O O O T-POS T-POS O O O O O O O O O O O O O O O***PRP VBD DT JJ JJ IN DT NN NN VBN IN NNS , CC PRP `` NNP VBD PRP JJ TO VB IN .
+I bought this Mac book pro along with a new 27 iMac and while they are still light years more reliable than a PC I have noticed a decline in the reliability of my Mac computers .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBD DT NNP NN JJ RB IN DT JJ CD NNS CC IN PRP VBP RB JJ NNS RBR JJ IN DT NN PRP VBP VBN DT NN IN DT NN IN PRP$ NNP NNS .
+The sound as mentioned earlier is n't the best , but it can be solved with headphones .***O O O O O O O O O O O O O O O O T-NEU O***DT NN IN VBN RBR VBZ RB DT JJS , CC PRP MD VB VBN IN NNS .
+The track pad is a bit squirrely at times sometimes too sensitive , and sometimes a bit unresponsive , but it 's usable .***O O O O O O O O O O O O O O O O O O O O O O O O***DT NN NN VBZ DT NN RB IN NNS RB RB JJ , CC RB DT NN JJ , CC PRP VBZ JJ .
+However , the experience was great since the OS does not become unstable and the application will simply shutdown and reopen .***O O O O O O O O T-POS O O O O O O T-POS O O O O O O***RB , DT NN VBD JJ IN DT NN VBZ RB VB JJ CC DT NN MD RB VB CC VB .
+Then only FOUR months later , my great MacBook pro FAILED .***O O O O O O O O O O O O***RB RB CD NNS RB , PRP$ JJ NNP NN VBD .
+If you ask me , for this price it should be included .***O O O O O O O T-NEG O O O O O***IN PRP VBP PRP , IN DT NN PRP MD VB VBN .
+The battery is not as shown in the product photos .***O T-NEG O O O O O O O O O***DT NN VBZ RB RB VBN IN DT NN NNS .
+Even though I could have gotten a pc twice the speed for the same price I still think there 's nothing like a Mac .***O O O O O O O O O O O O O O O O O O O O O O O O O***RB IN PRP MD VB VBN DT NN PDT DT NN IN DT JJ NN PRP RB VBP EX VBZ NN IN DT NNP .
+Seems a much more economical way to get into Apple than their other computers .***O O O O O O O O O O O O O O O***VBZ DT RB RBR JJ NN TO VB IN NNP IN PRP$ JJ NNS .
+Shipping was quick and product described was the product sent and so much more .***T-POS O O O O O O O O O O O O O O***NN VBD JJ CC NN VBN VBD DT NN VBN CC RB RB JJR .
+I ' m so disgusted that I wasted my money on this product .***O O O O O O O O O O O O O O***PRP `` NN RB JJ IN PRP VBD PRP$ NN IN DT NN .
+All you get is a box and a computer .***O O O O O O O O O O***DT PRP VBP VBZ DT NN CC DT NN .
+the retina display display make pictures i took years ago jaw dropping .***O T-POS T-POS T-POS O O O O O O O O O***DT NNP NN NN VBP NNS PRP VBD NNS RB NN NN .
+Its only crashed on me one time in the 3 months i ' ve had it .***O O O O O O O O O O O O O O O O O***PRP$ RB VBD IN PRP CD NN IN DT CD NNS PRP `` NNP VBD PRP .
+The Mac Mini is probably the simplest example of compact computing out there .***O O O O O O O O O T-POS T-POS O O O***DT NNP NNP VBZ RB DT JJS NN IN JJ NN RB RB .
+Instead , I 'll focus more on the actual performance and feature set of the hardware itself so you can make an educated decision on which Mac to buy .***O O O O O O O O O T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU O O O O O O O O O O O O O O***RB , PRP MD VB RBR IN DT JJ NN CC NN VBN IN DT NN PRP IN PRP MD VB DT VBN NN IN WDT NNP TO VB .
+My bag just got a little lighter .***O O O O O O O O***PRP$ NN RB VBD DT JJ JJR .
+I ' m Not exagerating when I say this computer is perfecti It is ! ! .***O O O O O O O O O O O O O O O O O***PRP `` VBD RB VBG WRB PRP VBP DT NN VBZ NN PRP VBZ . . .
+This machine is flawless , fast , and classy .***O O O O O O O O O O***DT NN VBZ JJ , RB , CC JJ .
+Other ports include FireWire 800 , Gigabit Ethernet , MagSafe port , Microphone jack .***O T-NEU O T-NEU T-NEU O T-NEU T-NEU O T-NEU T-NEU O T-NEU T-NEU O***JJ NNS VBP NNP CD , NNP NNP , NNP NN , NNP NN .
+I stayed up half the night enjoying my new MacBook Pro .***O O O O O O O O O O O O***PRP VBD RP PDT DT NN VBG PRP$ JJ NNP NNP .
+This laptop is a 100 times better than a Chromebook !***O O O O O O O O O O O***DT NN VBZ DT CD NNS JJR IN DT NNP .
+Additionally , there is barely a ventilation system in the computer , and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot , and in fact impossible to keep on lap .***O O O O O O T-NEG T-NEG O O O O O O O O O O T-NEU T-NEU O O T-NEU T-NEU T-NEU O O O O O O O O O O O O O O O O O O***RB , EX VBZ RB DT NN NN IN DT NN , CC RB DT JJ NN IN VBG NNS VB JJ VBG NN NNS VBZ DT NN TO VB RB RB JJ , CC IN NN JJ TO VB IN NN .
+At $ 1899 to start , this is no cheap machine .***O O O O O O O O O O O O***IN $ CD TO VB , DT VBZ DT JJ NN .
+Chatting with Acer support , I was advised the problem was corrupted operating system files .***O O T-NEU T-NEU O O O O O O O O T-NEU T-NEU T-NEU O***VBG IN NNP NN , PRP VBD VBN DT NN VBD VBN VBG NN NNS .
+It 's been a couple weeks since the purchase and I ' m struggle with finding the correct keys but that was expected .***O O O O O O O O O O O O O O O O O O T-NEU O O O O O***PRP VBZ VBN DT NN NNS IN DT NN CC PRP `` NN NN IN VBG DT JJ NNS CC DT VBD VBN .
+Many people complain about the new OS , and it 's urgent for Apple to fix it asap !***O O O O O O T-NEG O O O O O O O O O O O O***JJ NNS VBP IN DT JJ NNP , CC PRP VBZ JJ IN NNP TO VB PRP RB .
+Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office .***O O O O O O T-POS O O O O O T-POS T-POS O O O O O O O O O***RB IN PRP VBP VBN IN NNP PRP VBP RB JJR IN NNP NNP CC VBP RB VBN DT NNP IN NN .
+User upgradeable RAM and HDD .***O O T-POS O T-POS O***VB JJ NN CC NNP .
+But I wanted the Pro for the CD / DVD player .***O O O O O O O T-POS T-POS T-POS T-POS O***CC PRP VBD DT NNP IN DT NNP SYM NN NN .
+I might have read it incorrectly , but better safe than sorry right ?***O O O O O O O O O O O O O O***PRP MD VB VBN PRP RB , CC RBR JJ IN JJ RB .
+The ultimate graduation gift .***O O O O O***DT JJ NN NN .
+The RAM memory is good but should have splurged for 8Mb instead of 4Mb .***O O O O O O O O O O O O O O O***DT NN NN VBZ JJ CC MD VB VBN IN CD RB IN CD .
+was debating to buy one for months , checked out different stuff on youtube , and read different articles and debates , I just did n't really wan na spend the money but I m glad that I did .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***VBD VBG TO VB CD IN NNS , VBD RP JJ NN IN NNP , CC VBD JJ NNS CC NNS , PRP RB VBD RB RB VB TO VB DT NN CC PRP VBP JJ IN PRP VBD .
+I love it and would recommend it to everyone who is tired of the constant attention PC 's require .***O O O O O O O O O O O O O O O O O O O O***PRP VBP PRP CC MD VB PRP IN NN WP VBZ JJ IN DT JJ NN NN POS NN .
+I was a little worry at first because I do n't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows .***O O O O O O O O O O O O O O O O O T-NEU O T-POS O O O O O O O O O O O O T-POS O***PRP VBD DT JJ NN IN RB IN PRP VBP RB VB DT NN IN NN IN JJ CC NNS VBZ RB VBN JJ NN IN PRP IN JJ NNS IN VBG NNS .
+I am an Info Sys major in college , so I started researching this issue on my own .***O O O O O O O O O O O O O O O O O O O***PRP VBP DT NNP NNP NN IN NN , CC PRP VBD VBG DT NN IN PRP$ JJ .
+Solution , it turned out to be pretty simple .***O O O O O O O O O O***NN , PRP VBD RP TO VB RB JJ .
+With the softwares supporting the use of other OS makes it much better .***O O T-NEU O O O O O T-NEU O O O O O***IN DT NNS VBG DT NN IN JJ NNP VBZ PRP RB RBR .
+Still have n't solved this .***O O O O O O***RB VBP RB VBN DT .
+I then upgraded to Mac OS X 10.8 " Mountain Lion " .***O O O O T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU O***PRP RB VBD IN NNP NNP NNP CD `` NNP NNP '' .
+It is EXTREMELY fast and never lags .***O O O O O O O O***PRP VBZ RB RB CC RB VBZ .
+I told them that I just received my brand new MacBook but I was having issues .***O O O O O O O O O O O O O O O O O***PRP VBD PRP IN PRP RB VBD PRP$ NN JJ NNP CC PRP VBD VBG NNS .
+I was considering buying the Air , but in reality , this one has a more powerful performance and seems much more convenient , even though it 's about 20 inch thicker and 2 lbs heavier .***O O O O O O O O O O O O O O O O O T-POS O O O O O O O O O O O O O O O O O O O***PRP VBD VBG VBG DT NN , CC IN NN , DT NN VBZ DT RBR JJ NN CC VBZ RB RBR JJ , RB IN PRP VBZ RB CD NN JJR CC CD NN JJR .
+At home and the office it gets plugged into an external 24 " LCD screen , so built in screen size is not terribly important .***O O O O O O O O O O T-NEU T-NEU T-NEU T-NEU T-NEU O O T-NEU T-NEU T-NEU T-NEU O O O O O***IN NN CC DT NN PRP VBZ VBN IN DT JJ CD `` NN NN , RB VBN IN NN NN VBZ RB RB JJ .
+Hopefully my replacement is brand new .***O O O O O O O***RB PRP$ NN VBZ NN JJ .
+Just beware no DVD slot so when I went to install software I had on CD I could n't .***O O O T-NEU T-NEU O O O O O T-NEG T-NEG O O O O O O O O***RB VB DT NN NN RB WRB PRP VBD TO VB NN PRP VBD IN NN PRP MD RB .
+I bought it to be able to dedicate a small , portable laptop to my writing and was surprised to learn that I needed to buy a word processing program to do so .***O O O O O O O O O O O O O O O O O O O O O O O O O O O T-NEU T-NEU T-NEU O O O O***PRP VBD PRP TO VB JJ TO VB DT JJ , JJ NN IN PRP$ NN CC VBD JJ TO VB IN PRP VBD TO VB DT NN NN NN TO VB RB .
+This version of MacBook Pro runs on a third - generation CPU ( " Ivy Bridge " ) , not the latest fourth - generation Haswell CPU the 2013 version has .***O O O O O O O O T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU O O O O T-NEU T-NEU T-NEU T-NEU T-NEU O O O O O***DT NN IN NNP NNP VBZ IN DT JJ HYPH NN NN -LRB- `` NNP NNP '' -RRB- , RB DT JJS JJ HYPH NN NNP NNP DT CD NN VBZ .
+Actually , I think I was intimidated by the change from a PC .***O O O O O O O O O O O O O O***RB , PRP VBP PRP VBD VBN IN DT NN IN DT NN .
+No Cd Rom in the new version there 's no way I ' m spending that kind of money on something has less features than the older version .***O T-NEU T-NEU O O O O O O O O O O O O O O O O O O O O T-NEG O O O O O***DT NNP NNP IN DT JJ NN EX VBZ DT NN PRP `` LS NN DT NN IN NN IN NN VBZ JJR NNS IN DT JJR NN .
+Definitely worth spending the money on it .***O O O O O O O O***RB JJ VBG DT NN IN PRP .
+I have three words , Piece of Junk !***O O O O O O O O O***PRP VBP CD NNS , NNP IN NNP .
+the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer***O T-NEG O O O O O O O O O O O T-NEG O O O O O O O O O O***DT NN VBZ RB JJ TO JJ IN DT JJ RB NN NN NN TO VB RB NNP PRP VBP IN IN DT NN
+Fits all my personal needs .***O O O O O O***NNS PDT PRP$ JJ NNS .
+I ' m the pro - active type so I went off and did some preventative fixes .***O O O O O O O O O O O O O O O O O O***PRP `` NN DT JJ JJ JJ NN RB PRP VBD RP CC VBD DT JJ NNS .
+and its not hard to accidentally bang it against something so i recommend getting a case to protect it .***O O O O O O O O O O O O O O O T-NEU O O O O***CC PRP$ RB JJ TO RB VB PRP IN NN RB PRP VBP VBG DT NN TO VB PRP .
+I wanted to explore what the Mac was all about .***O O O O O O O O O O O***PRP VBD TO VB WP DT NNP VBD RB IN .
+I got this at an amazing price from Amazon and it arrived just in time .***O O O O O O T-POS O O O O O O O O O***PRP VBD DT IN DT JJ NN IN NNP CC PRP VBD RB IN NN .
+Every time I log into the system after a few hours , there is this endlessly frustrating process that I have to go through .***O O O T-NEG T-NEG T-NEG T-NEG O O O O O O O O O O O O O O O O O O***DT NN PRP VBP IN DT NN IN DT JJ NNS , EX VBZ DT RB JJ NN WDT PRP VBP TO VB RB .
+The majority of the reviews seem to be for the 133 MacBook Pro Model # MD101LL / A .***O O O O O O O O O O O O O O O O O O O***DT NN IN DT NNS VBP TO VB IN DT CD NNP NNP NNP $ , , NN .
+Put a SSD and use a 21 " LED screen , this set up is silky smooth !***O O T-NEU O O O T-NEU T-NEU T-NEU T-NEU O O T-POS T-POS O O O O***VB DT NN CC VB DT CD `` NN NN , DT NN RP VBZ JJ JJ .
+I saw the bad reviews from people saying to buy directly from Apple and I was concerned but I took my chances and am overly impressed .***O O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBD DT JJ NNS IN NNS VBG TO VB RB IN NNP CC PRP VBD VBN CC PRP VBD PRP$ NNS CC VBP RB JJ .
+The case is now slightly larger than the previous generation , but the lack of an external power supply justifies the small increase in size .***O T-NEG O O O O O O O O O O O O O O T-NEU T-NEU T-NEU O O O O O O O***DT NN VBZ RB RB JJR IN DT JJ NN , CC DT NN IN DT JJ NN NN VBZ DT JJ NN IN NN .
+I had to buy a wireless mouse to go with it , as I am old school and hate the pad , but knew that before I bought it , now it works great , need to get adjusted to the key board , as I am used to a bigger one and pounding .***O O O O O T-NEU T-NEU O O O O O O O O O O O O O T-NEG O O O O O O O O O O O T-POS O O O O O O O O T-NEU T-NEU O O O O O O O O O O O O***PRP VBD TO VB DT JJ NN TO VB IN PRP , IN PRP VBP JJ NN CC VBP DT NN , CC VBD IN IN PRP VBD PRP , RB PRP VBZ JJ , VBP TO VB VBN IN DT JJ NN , IN PRP VBP VBN IN DT JJR NN CC NN .
+When considering a Mac , look at the total cost of ownership and not just the initial price tag .***O O O O O O O O O T-NEU T-NEU T-NEU O O O O O T-NEU T-NEU O***WRB VBG DT NNP , VB IN DT JJ NN IN NN CC RB RB DT JJ NN NN .
+Has all the other features I wanted including a VGA port , HDMI , ethernet and 3 USB ports .***O O O O T-POS O O O O T-NEU T-NEU O T-NEU O T-NEU O O T-NEU T-NEU O***VBZ PDT DT JJ NNS PRP VBD VBG DT NN NN , NNP , NN CC CD NN NNS .
+A great college tool !***O O O O O***DT JJ NN NN .
+The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip .***O O O O O O O O O O T-NEG T-NEG O O O O O O O O O O***DT JJ NN PRP VBP IN DT NN VBP DT NN NNS VBD IN DT NN IN DT NN IN NN .
+I called apple and no solution .***O O O O O O O***PRP VBD NN CC DT NN .
+It 's a decent computer for the price and hopefully it will last a long time .***O O O O O O O T-NEU O O O O O O O O O***PRP VBZ DT JJ NN IN DT NN CC RB PRP MD VB DT JJ NN .
+I was really happy because it is a much better price on amazoncom than it was in the Mac store .***O O O O O O O O O O O O O O O O O O O O O***PRP VBD RB JJ IN PRP VBZ DT RB JJR NN IN NNP IN PRP VBD IN DT NNP NN .
+The worst a Mac ever did to me was freeze up .***O O O O O O O O O O O O***DT JJS DT NNP RB VBD IN PRP VBD VB RP .
+The nicest part is the low heat output and ultra quiet operation .***O O O O O O T-POS T-POS O O O T-POS O***DT JJS NN VBZ DT JJ NN NN CC JJ JJ NN .
+I am paying apple to kill my self and my wallet .***O O O O O O O O O O O O***PRP VBP VBG NN TO VB PRP$ NN CC PRP$ NN .
+NO STAR FOR THIS TRASH [ .***O O O O O O O***DT NNP IN DT NN -LRB- .
+I will upgrade the ram myself because with this model you can you can do it later on .***O O T-POS T-POS T-POS O O O O O O O O O O O O O O***PRP MD VB DT NN PRP IN IN DT NN PRP MD PRP MD VB PRP RB RB .
+The price is 200 dollars down .***O T-POS O O O O O***DT NN VBZ CD NNS RB .
+this Mac Mini does not have a built - in mic , and it would seem that its Mac OS 10.9 does not handle external microphones properly .***O O O O O O O T-NEU T-NEU T-NEU T-NEU O O O O O O O T-NEG T-NEG T-NEG O O O T-NEU T-NEU O O***DT NNP NNP VBZ RB VB DT VBN HYPH RP NNP , CC PRP MD VB IN PRP$ NNP NNP CD VBZ RB VB JJ NNS RB .
+A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC .***O O O T-NEU O T-NEU O O O O O O O O O O O O O O***DT NN IN NNS CC NNS IN DT NNP IN PRP VBD RB VBN IN IN DT JJ NN .
+Was n't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different .***O O O O O O O O O O O O O O O O O O O O O O O O O O O T-POS T-POS O O O O O O O O O O O O***VBD RB JJ IN PRP VBD VBG TO VB PRP RB JJR VB PRP RB PRP VBD IN DT JJ JJS NN CC VBD RB IN DT NNP NN IN DT NNP NNP CC PRP VBD RB JJ CC JJ .
+Quietest laptop I have ever owned .***O O O O O O O***JJ NN PRP VBP RB VBN .
+air has higher resolution but the fonts are small .***O O O T-POS O O T-NEG O O O***NNP VBZ JJR NN CC DT NNS VBP JJ .
+again this is just my personal honest opinion .***O O O O O O O O O***RB DT VBZ RB PRP$ JJ JJ NN .
+If you have much higher expectations than that I would look elsewhere .***O O O O O O O O O O O O O***IN PRP VBP RB JJR NNS IN IN PRP MD VB RB .
+working with Mac is so much easier , so many cool features .***T-POS O O O O O O O O O O T-POS O***VBG IN NNP VBZ RB RB JJR , RB JJ JJ NNS .
+I ' m going to buy a logitevh c270 .***O O O O O O O O O O***PRP `` XX VBG TO VB DT NN NN .
+Very happy with my purchase .***O O O O O O***RB JJ IN PRP$ NN .
+I like the brightness and adjustments .***O O O T-POS O T-POS O***PRP VBP DT NN CC NNS .
+I ' M SO HAPPY WITH MY macbook pro !***O O O O O O O O O O***PRP `` NNP RB NNP IN PRP$ NN JJ .
+I only wish this mac had a CD / DVD player built in .***O O O O O O O T-NEU T-NEU T-NEU T-NEU O O O***PRP RB VBP DT NNP VBD DT NNP SYM NN NN VBN IN .
+The only thing I miss is that my old Alienware laptop had backlit keys .***O O O O O O O O O O O O T-NEG T-NEG O***DT JJ NN PRP VBP VBZ IN PRP$ JJ NNP NN VBD VBN NNS .
+The only thing I miss are the " Home / End " type keys and other things that I grew accustomed to after so long .***O O O O O O O T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU T-NEU O O O O O O O O O O O O***DT JJ NN PRP VBP VBP DT `` NNP , NN '' NN NNS CC JJ NNS WDT PRP VBD VBN IN RB RB RB .
+So happy with this purchase , I just wish it came with Microsoft Word .***O O O O O O O O O O O O T-NEU T-NEU O***RB JJ IN DT NN , PRP RB VBP PRP VBD IN NNP NNP .
+It is more than enough computer to keep up with the needs of a high school student .***O O O O O O O O O O O O O O O O O O***PRP VBZ JJR IN JJ NN TO VB RP IN DT NNS IN DT JJ NN NN .
+It has enough memory and speed to run my business with all the flexibility that comes with a laptop .***O O O T-POS O T-POS O O O O O O O T-POS O O O O O O***PRP VBZ JJ NN CC NN TO VB PRP$ NN IN PDT DT NN WDT VBZ IN DT NN .
+The speed , the simplicity , the design it is lightyears ahead of any PC I have ever owned .***O T-POS O O T-POS O O T-POS O O O O O O O O O O O O***DT NN , DT NN , DT NN PRP VBZ NNS RB IN DT NN PRP VBP RB VBN .
+I love everything about this computer .***O O O O O O O***PRP VBP NN IN DT NN .
+I found it toughest to decide between Dell ultra books and Apple .***O O O O O O O O O O O O O***PRP VBD PRP JJS TO VB IN NNP JJ NNS CC NNP .
+The battery life is excellent , the display is excellent , and downloading apps is a breeze .***O T-POS T-POS O O O O T-POS O O O O T-POS T-POS O O O O***DT NN NN VBZ JJ , DT NN VBZ JJ , CC VBG NNS VBZ DT NN .
+The screen , the software and the smoothness of the operating system .***O T-POS O O T-POS O O O O O T-POS T-POS O***DT NN , DT NN CC DT NN IN DT NN NN .
+While we struggle with all the crashes and viruses , the kids computers stay consistent and so we caved in and bought one for buisness !***O O O O O O O O O O O O O O O O O O O O O O O O O O***IN PRP VBP IN PDT DT NNS CC NNS , DT NNS NNS VBP JJ CC RB PRP VBD RP CC VBD CD IN NN .
+I do n't want to RUN a computer ; I want to USE a computer .***O O O O O O O O O O O O O O O O***PRP VBP RB VB TO VB DT NN : PRP VBP TO VB DT NN .
+i have dropped mine a couple times with only a slim plastic case covering it .***O O O O O O O O O O T-NEU T-NEU T-NEU O O O***PRP VBP VBN PRP DT NN NNS IN RB DT JJ NN NN VBG PRP .
+I also made a recovery USB stick .***O O O O T-NEU T-NEU T-NEU O***PRP RB VBD DT NN NN NN .
+Being a PC user for many years to switch to a Mac I will not go back .***O O O O O O O O O O O O O O O O O O***VBG DT NN NN IN JJ NNS TO VB IN DT NNP PRP MD RB VB RB .
+But with this laptop , the bass is very weak and the sound comes out sound tinny .***O O O O O O T-NEG O O O O O T-NEG O O T-NEG O O***CC IN DT NN , DT NN VBZ RB JJ CC DT NN VBZ RP RB JJ .
+I do admit it is pricey but the saying is really true with this MacBook Pro Laptop You get what you pay for .***O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBP VB PRP VBZ JJ CC DT NN VBZ RB JJ IN DT NNP NNP NNP PRP VBP WP PRP VBP IN .
+I ' ve almost have bought every generation of MacMinis since 2005 , and this one has n't let me down .***O O O O O O O O O O O O O O O O O O O O O O***PRP `` JJ RB VBP VBN DT NN IN NNP IN CD , CC DT NN VBZ RB VBN PRP RP .
+The built quality is really good , I was so Happy and excited about this Product .***O T-POS T-POS O O O O O O O O O O O O O O***DT VBN NN VBZ RB JJ , PRP VBD RB JJ CC JJ IN DT NN .
+I am loving the fast performance also .***O O O O O T-POS O O***PRP VBP VBG DT JJ NN RB .
+I had to return it because it would n't even start .***O O O O O O O O O O O O***PRP VBD TO VB PRP IN PRP MD RB RB VB .
+Further , this Mac Mini has a sloppy Bluetooth interface courtesy of the Mac OS and the range is poor .***O O O O O O O O T-NEG T-NEG O O O T-NEG T-NEG O O T-NEG O O O***RB , DT NNP NNP VBZ DT JJ NNP NN NN IN DT NNP NNP CC DT NN VBZ JJ .
+Great deal on an amazing lap top !***O O O O O O O O***JJ NN IN DT JJ NN NN .
+If you start on the far right side and scroll to your left the start menu will automatically come up .***O O O O O O O O O O O O O O T-NEU T-NEU O O O O O***IN PRP VBP IN DT RB JJ NN CC VB IN PRP$ VBN DT NN NN MD RB VB RP .
+Best money I ever spent .***O O O O O O***JJS NN PRP RB VBD .
+My only gripe would be the need to add more RAM .***O O O O O O O O O O T-NEG O***PRP$ JJ NN MD VB DT NN TO VB JJR NN .
+But I did n't want to spend another thousand on a laptop since my work already provides me with a PC .***O O O O O O O O O O O O O O O O O O O O O O***CC PRP VBD RB VB TO VB DT CD IN DT NN IN PRP$ NN RB VBZ PRP IN DT NN .
+Fine if you have a touch screen .***O O O O O T-NEU T-NEU O***RB IN PRP VBP DT NN NN .
+can never go wrong with apple products .***O O O O O O O O***MD RB VB JJ IN NN NNS .
+As far as user type , I dabble in everything from games WoW to Photoshop , but nothing professionally .***O O O O O O O O O O O T-NEU O O T-NEU O O O O O***RB RB IN NN NN , PRP VBP IN NN IN NNS NN IN NNP , CC NN RB .
+It does nt get hot like my PC , with technology always at the tip of our fingertips anytime I forget how to do something i just google it .***O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O***PRP VBZ RB VB JJ IN PRP$ NN , IN NN RB IN DT NN IN PRP$ NNS RB PRP VBP WRB TO VB NN PRP RB VBP PRP .
+I re - seated the " WLAN " card inside and re - installed the LAN device drivers .***O O O O O T-NEU T-NEU T-NEU T-NEU O O O O O O T-NEU T-NEU T-NEU O***PRP VBP VBD VBD DT `` NNP '' NN RB CC VB VBN VBD DT NNP NN NNS .
+This by far beats any computer out on the market today built well , battery life AMAZING .***O O O O O O O O O O O T-POS O O T-POS T-POS O O***DT IN RB VBZ DT NN IN IN DT NN NN VBD RB , NN NN NNP .
+I have n't used it for anything high tech yet , but I love it already .***O O O O O O O O O O O O O O O O O***PRP VBP RB VBN PRP IN NN JJ NN RB , CC PRP VBP PRP RB .
+The OS is easy , and offers all kinds of surprises .***O T-POS O O O O O O O O O O***DT NNP VBZ JJ , CC VBZ DT NNS IN NNS .
+I had to get Apple Customer Support to correct the problem .***O O O O T-NEU T-NEU T-NEU O O O O O***PRP VBD TO VB NNP NNP NNP TO VB DT NN .
+Ideal for someone on the go or for a high school students .***O O O O O O O O O O O O O***NN IN NN IN DT NN CC IN DT JJ NN NNS .
+A veryimportant feature is Firewire 800 which in my experience works better then USB3 in PC enabled with USB3 was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7 .***O O O O T-POS T-POS O O O O O O O T-NEG O O O O T-NEG O O O O O O T-NEG T-NEG O O O O O O O O O T-POS T-POS O***DT JJ NN VBZ NNP CD WDT IN PRP$ NN VBZ RBR RB NNP IN NNP VBD IN NNP VBD RB RB VBN IN DT NNP NNP PRP VBD PRP VBD JJ IN JJ NNS IN NNP CD .
+I like iTunes , the apparent security , the Mini form factor , all the nice graphics stuff .***O O T-POS O O O T-POS O O T-POS T-POS T-POS O O O O T-POS T-POS O***PRP VBP NNP , DT JJ NN , DT NNP NN NN , PDT DT JJ NNS NN .
+The first time I used the card reader it took half an hour and a pair of tweezers to remove the card .***O O O O O O T-NEG T-NEG O O O O O O O O O O O T-NEG T-NEG T-NEG O***DT JJ NN PRP VBD DT NN NN PRP VBD PDT DT NN CC DT NN IN NNS TO VB DT NN .
+This flaw unfortunately detracts from everything else Apple got right with the Mini .***O O O O O O O O O O O O O O***DT NN RB VBZ IN NN RB NNP VBD JJ IN DT NNP .
+After replacing the spinning hard disk with an ssd drive , my mac is just flying .***O O O T-NEU T-NEU T-NEU O O T-POS T-POS O O O O O O O***IN VBG DT VBG JJ NN IN DT NN NN , PRP$ NN VBZ RB VBG .
+I know some people complained about HDMI issues but they released a firmware patch to address that issue .***O O O O O O T-NEU O O O O O T-NEU T-NEU O O O O O***PRP VBP DT NNS VBD IN NNP NNS CC PRP VBD DT JJ NN TO VB DT NN .
+With the needs of a professional photographer I generally need to keep up with the best specs .***O O O O O O O O O O O O O O O O T-NEU O***IN DT NNS IN DT JJ NN PRP RB VBP TO VB RP IN DT JJS NNS .
+Added an iMac about 2 years later .***O O O O O O O O***VBN DT NNP RB CD NNS RB .
+packing and everything was perfect***T-POS O O O O***NN CC NN VBD JJ
+I will not hesitate to recommend it to family and friends***O O O O O O O O O O O***PRP MD RB VB TO VB PRP IN NN CC NNS
+I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards .***O O O O O O O O O O O O O O O O O O O O O T-NEU T-NEU O***PRP VBD NNP WRB PRP VBD PRP DT JJ NN CC PRP VBD PRP IN PRP VBD VBG NNS IN DT NN NNS .
+I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty , related to the graphics card .***O O O O O O O O O T-NEG T-NEG O O O O O O O O O O O T-NEG T-NEG O***PRP VBP TO VB VBG NN NNS IN DT NNP NNP IN DT NN VBZ VBN IN JJ , JJ IN DT NNS NN .
+It also comes with 4 G of RAM but if you 're like me you want to max that out so I immediately put 8 G of RAM in her and I ' ve never used a computer that performs better .***O O O O T-NEU T-NEU T-NEU T-NEU O O O O O O O O O O O O O O O O T-NEU T-NEU T-NEU T-NEU O O O O O O O O O O O T-POS O O***PRP RB VBZ IN CD NN IN NN CC IN PRP VBP IN PRP PRP VBP TO VB DT RP IN PRP RB VBP CD NN IN NNP IN PRP CC PRP `` XX RB VBD DT NN WDT VBZ RBR .
+This computer is also awesome for my sons virtual home schooling .***O O O O O O O O T-POS T-POS T-POS O***DT NN VBZ RB JJ IN PRP$ NNS JJ NN NN .
+Cost is more as compared to other brands .***T-NEG O O O O O O O O***NN VBZ RBR IN VBN IN JJ NNS .
+also excellent operating system size and weight for optimal mobility excellent durability of the battery the functions provided by the trackpad is unmatched by any other brand- .***O O T-POS T-POS T-POS O T-POS O O T-POS O T-POS T-POS T-POS T-POS O T-POS T-POS T-POS T-POS T-POS O O O O O O O***RB JJ NN NN NN CC NN IN JJ NN JJ NN IN DT NN DT NNS VBN IN DT NN VBZ JJ IN DT JJ NN .
+This hardware seems to be better than the iMac in that it is n't $ 1400 and smaller .***O T-POS O O O O O O O O O O O O O O O O O***DT NN VBZ TO VB JJR IN DT NNP IN IN PRP VBZ RB $ CD CC JJR .
+I ' m done with WinDoze computers .***O O O O O O O O***PRP `` NN VBN IN NNP NNS .
+I ' ve had it for about 2 months now and found no issues with software or updates .***O O O O O O O O O O O O O O O T-NEU O T-NEU O***PRP `` NNP VBD PRP IN RB CD NNS RB CC VBD DT NNS IN NN CC NNS .
+the latest version does not have a disc drive .***O O O O O O O T-NEU T-NEU O***DT JJS NN VBZ RB VB DT NN NN .
+Screen , although some people might complain about low res which I think is ridiculous .***T-POS O O O O O O O O T-POS O O O O O O***NN , IN DT NNS MD VB IN JJ NNS WDT PRP VBP VBZ JJ .
