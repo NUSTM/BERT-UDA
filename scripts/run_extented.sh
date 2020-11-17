@@ -3,7 +3,7 @@ domains=('rest' 'service' 'laptop' 'device')
 
 export CUDA_VISIBLE_DEVICES=6
 data='./datasets'
-output='./run_out/base/'
+output='./run_out/extented/'
 
 for tar_domain in ${domains[@]};
 do
@@ -23,7 +23,7 @@ do
                 --data_dir "${src_domain}-${tar_domain}"  \
                 --output_dir "${output}${src_domain}-${tar_domain}"  \
                 --train_batch_size 16 \
-                --bert_model 'bert_base' \
+                --bert_model 'bert_extented' \
                 --seed 42 \
                 --do_train \
                 --do_eval 

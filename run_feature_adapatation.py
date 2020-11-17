@@ -92,7 +92,7 @@ def train(args):
 
 
 def main():
-    os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+    # os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
     parser = argparse.ArgumentParser()
 

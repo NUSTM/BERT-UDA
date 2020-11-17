@@ -37,11 +37,6 @@ do
             # create dataset for train auxiliary tasks...
             python create_aux_data.py --train_corpus "${data}${pair}-train-merge.txt" \
                 --output_dir "${out_dirs}${pair}-aux"
-            # train auxiliary task to learn domian shared representation...
-            echo "do feature adapatation for :${pair}"
-            python run_feature_adapatation.py --bert_model 'bert_base' \
-                --data_dir "${out_dirs}${pair}-aux" \
-                --output_dir "./out_feature_models/base-${pair}"
         fi
     done
 done

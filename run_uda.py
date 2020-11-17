@@ -293,7 +293,7 @@ def test(args):  # Load a trained model that you have fine-tuned (we assume eval
     all_mask = torch.cat(all_mask, dim=0)
     all_mask = all_mask.tolist()
 
-    # 去除padding和特殊符号
+    # get rid of padding 
     new_label_ids, new_preds = [], []  
     for i in range(len(all_mask)):
         l = sum(all_mask[i])

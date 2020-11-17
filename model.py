@@ -177,7 +177,7 @@ class ABSABert(BertPreTrainedModel):
         outputs = self.bert(input_ids, position_ids=position_ids, token_type_ids=token_type_ids,
                             attention_mask=attention_mask, head_mask=head_mask)
 
-        sequence_output, pooled_output = outputs[:2]  # sequence_output: (batch, seq_len, hidden)
+        sequence_output, pooled_output = outputs[:2] 
         sequence_output = self.dropout(sequence_output)
 
         if masked_tag_labels is not None:
@@ -211,8 +211,7 @@ class ABSABert(BertPreTrainedModel):
                     factors = F.softmax(factors, dim=-1)
                     factors, _ = torch.min(factors, dim=-1, keepdim=True)
                     factors = factors.squeeze()  # batch*seq_len
-                    factors = F.softmax(factors, dim=-1)
-                    
+                    factors = F.softmax(factors, dim=-1) 
                 loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1), factors.view(-1))
                 return loss, factors
             else:

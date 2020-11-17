@@ -353,7 +353,7 @@ def main():
 
     args = parser.parse_args()
 
-    args.output_dir = args.output_dir + str(args.train_batch_size)
+    # args.output_dir = args.output_dir + str(args.train_batch_size)
 
     random.seed(args.seed)
     np.random.seed(args.seed)

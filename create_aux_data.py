@@ -2,7 +2,6 @@ from argparse import ArgumentParser
 from pathlib import Path
 from tqdm import tqdm, trange
 from tempfile import TemporaryDirectory
-import shelve
 from multiprocessing import Pool
 
 import random

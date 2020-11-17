@@ -1,8 +1,13 @@
 #!/bin/bash
 domains=('rest' 'service' 'laptop' 'device')
 
-export CUDA_VISIBLE_DEVICES=0
+data='./datasets/unlabel/'
+out_dirs='./datasets/unlabel/'
+
+
+export CUDA_VISIBLE_DEVICES=6
 declare -A dic
+# aux dataset for 5 domain transfer pairs
 dic=(["service-device"]="device-service" ["service-laptop"]="laptop-service" ["device-rest"]="rest-device" ["laptop-rest"]="rest-laptop" ["service-rest"]="rest-service")
 
 for tar_domain in ${domains[@]};
@@ -21,21 +26,14 @@ do
             fi
             if ! [[ "${dic[*]}" =~ "$src_domain-$tar_domain" ]];
             then
-                pair="${dic[$src_domain-$tar_domain]}"
+                continue
             else
                 pair="$src_domain-$tar_domain"
             fi
-
-			python run_uda.py --task_type 'absa' \
-                --data_dir "${src_domain}-${tar_domain}"  \
-                --output_dir "./run_out/uda-${src_domain}-${tar_domain}"  \
-                --bert_model "bert_base"\
-                --train_batch_size 16 \
-                --domain_dataset "./datasets/unlabel/${pair}-rel" \
-                --features_model "./out_feature_models/base-${pair}/epoch2/model.pt" \
-                --seed 42 \
-                --do_train \
-                --do_eval 
+            echo "do feature adapatation for :${pair}"
+            python run_feature_adapatation.py --bert_model 'bert_base' \
+                --data_dir "${out_dirs}${pair}-aux" \
+                --output_dir "./out_feature_models/base-${pair}"
         fi
     done
 done
