@@ -90,7 +90,6 @@ def train(args):
     all_segment_ids = torch.tensor([f.segment_ids for f in train_features], dtype=torch.long)
     all_input_mask = torch.tensor([f.input_mask for f in train_features], dtype=torch.long)
     all_label_ids = torch.tensor([f.label_id for f in train_features], dtype=torch.long)
-    # all_tag_ids = torch.tensor([f.tag_id for f in train_features], dtype=torch.long)
 
     train_data = TensorDataset(all_input_ids, all_segment_ids, all_input_mask, all_label_ids)
     train_sampler = RandomSampler(train_data)
@@ -352,8 +351,6 @@ def main():
                              "E.g., 0.1 = 10%% of training.")
 
     args = parser.parse_args()
-
-    # args.output_dir = args.output_dir + str(args.train_batch_size)
 
     random.seed(args.seed)
     np.random.seed(args.seed)
