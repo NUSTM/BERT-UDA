@@ -138,11 +138,10 @@ def eval_result(dir):
         test_Y.append(new_gold)
         pred_Y.append(new_pre)
 
-    p, r, f1, output_lines = evaluate_chunk(test_Y, pred_Y, dataset)
+    p, r, f1 = evaluate_chunk(test_Y, pred_Y)
     print('Main result for Aspect extract task precision: {} recall: {} f1: {}'.format(p, r, f1))
     with open(output_file, 'w', encoding='utf-8') as fp:
         fp.write('P: ' + str(p) + ' R: ' + str(r) + ' f1: ' + str(f1) + '\n')
-        fp.write(' '.join(output_lines))
     return f1
 
 def eval_ts_result(dir):
