@@ -12,7 +12,7 @@ For each domain transfer pairs, the unlabeled data come from a combination of tr
 
 The in-domain corpus(used for training BERT-E) come from [yelp](https://www.yelp.com/dataset/challenge) and [amazon reviews](http://jmcauley.ucsd.edu/data/amazon/links.html). 
 
-The link of BERT-E(BERT-Extented) will be uploaded soon.(Please specify the directory where BERT is stored in modelconfig.py.)
+Click here to get [BERT-E](https://pan.baidu.com/s/1hNyNCyfOHzznuPbxT1LNFQ)(BERT-Extented),and  the extraction code is by0i.(Please specify the directory where BERT is stored in modelconfig.py.)
 
 
 ## Dependencies
